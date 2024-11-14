@@ -1,0 +1,2357 @@
+[
+  {
+    "id": 0,
+    "name": "愚者",
+    "nameEn": "The Fool",
+    "arcana": "major",
+    "suit": null,
+    "number": "0",
+    "image": "cards/Major00.jpg",
+    "url":"https://pyfate.github.io/waite/major/00/",
+    "meanings": {
+      "upright": {
+        "general": "新的開始，冒險，純真，自發性，自由",
+        "love": "新的戀情，純真的愛，勇於表達感情，浪漫冒險",
+        "career": "新的工作機會，創新想法，勇於嘗試，創業",
+        "money": "投資新機會，大膽理財，需要謹慎規劃",
+        "health": "保持樂觀，嘗試新的健康方式，充滿活力",
+        "advice": "跟隨直覺，勇於冒險，保持開放心態，相信自己"
+      },
+      "reversed": {
+        "general": "魯莽，不負責任，過度冒險，猶豫不決",
+        "love": "感情不成熟，過於衝動，逃避承諾",
+        "career": "欠缺規劃，不切實際，錯失機會",
+        "money": "財務決策魯莽，需要更謹慎，避免動消費",
+        "health": "忽視健康訊，不規律的生活，需要更多關注",
+        "advice": "需要更多計劃和考慮，不要太衝動，評估風險"
+      }
+    },
+    "description": "愚者牌描繪了一個年輕人站在懸崖邊緣，手持白玫瑰，背著簡單的行囊，身邊有一隻小狗。這張牌象徵著新的開始、冒險精神和無限的可能性。",
+    "keywords": [
+      "冒險",
+      "開始",
+      "純真",
+      "自發",
+      "自由",
+      "可能性",
+      "信任"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "魔術師",
+    "nameEn": "The Magician",
+    "arcana": "major",
+    "suit": null,
+    "number": "1",
+    "image": "cards/Major01.jpg",
+    "url":"https://pyfate.github.io/waite/major/01/",
+    "meanings": {
+      "upright": {
+        "general": "創造力，技能，專注，意志力，新開始",
+        "love": "魅力四射，清楚表達，積極追求，創造浪漫",
+        "career": "專業技能，創新，領導力，實現目標",
+        "money": "善用資源，創造財富，明智投資",
+        "health": "積極態度，自我療癒，能量充沛",
+        "advice": "善用你的才能，專注於目標，付諸行動"
+      },
+      "reversed": {
+        "general": "技能未熟欺騙，猶豫不決，能力誤用",
+        "love": "操縱關係，不真誠，虛假承諾",
+        "career": "能力不足，欺騙，濫用職權",
+        "money": "財務欺騙，資源浪費，投機",
+        "health": "忽視身體警訊，假性健康",
+        "advice": "審視動機，避免自欺欺人，提升能力"
+      }
+    },
+    "description": "魔術師站在祭壇前，手指天空，象徵連接天地的力量。桌上有四種元素的象徵物，代表掌握所有工具和能力。",
+    "keywords": [
+      "創造力",
+      "技能",
+      "行動",
+      "意志力",
+      "專注",
+      "實現"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "女祭司",
+    "nameEn": "The High Priestess",
+    "arcana": "major",
+    "suit": null,
+    "number": "2",
+    "image": "cards/Major02.jpg",
+    "url":"https://pyfate.github.io/waite/major/02/",
+    "meanings": {
+      "upright": {
+        "general": "直覺，神秘，內在智慧，潛意識",
+        "love": "深層連結，直覺感知，耐心等待",
+        "career": "內在指引，研究工作，深度學習",
+        "money": "謹慎理財，靜觀其變，聽從直覺",
+        "health": "傾聽身體，冥想療癒，平衡身心",
+        "advice": "相信直覺，保持神秘，等待時機"
+      },
+      "reversed": {
+        "general": "忽視直覺，表面化，秘密揭露",
+        "love": "關係膚淺，缺乏洞察，過度理性",
+        "career": "忽視警訊，資訊不足，判斷錯誤",
+        "money": "忽視直覺，衝動決策，投機心態",
+        "health": "忽視警訊，壓抑情緒，身心失衡",
+        "advice": "重新連結內在，避免表面化"
+      }
+    },
+    "description": "女祭司端坐在兩根柱子之間，象徵著智慧與神秘。她手持聖經，代表深層的知識和智慧。",
+    "keywords": ["直覺", "神秘", "智慧", "潛意識", "等待", "洞察"]
+  },
+  {
+    "id": 3,
+    "name": "皇后",
+    "nameEn": "The Empress",
+    "arcana": "major",
+    "suit": null,
+    "number": "3",
+    "image": "cards/Major03.jpg",
+    "url":"https://pyfate.github.io/waite/major/03/",
+    "meanings": {
+      "upright": {
+        "general": "豐盛，創造力，母性，滋養，自然",
+        "love": "成熟的愛，滋養關係，感情豐富",
+        "career": "創意成果，事業成長，培育他人",
+        "money": "財務豐盛，自然增長，穩定收入",
+        "health": "身體健康，生育力強，恢復力好",
+        "advice": "享受生活，發揮創造力，關愛自己和他人"
+      },
+      "reversed": {
+        "general": "創造力受阻，依賴，過度保護",
+        "love": "缺乏滋養，過度依賴，情感枯竭",
+        "career": "創意受阻，成長停滯，缺乏動力",
+        "money": "財務停滯，過度消費，缺乏節制",
+        "health": "營養失衡，疲憊，需要休息",
+        "advice": "平衡付出與獲取，避免過度保護"
+      }
+    },
+    "description": "皇后坐在豐饒的花園中，身穿華麗的長袍，象徵著豐盛與創造力。她代表著大地之母的能量。",
+    "keywords": ["豐盛", "創造", "母性", "滋養", "自然", "成長"]
+  },
+  {
+    "id": 4,
+    "name": "皇帝",
+    "nameEn": "The Emperor",
+    "arcana": "major",
+    "suit": null,
+    "number": "4",
+    "image": "cards/Major04.jpg",
+    "url":"https://pyfate.github.io/waite/major/04/",
+    "meanings": {
+      "upright": {
+        "general": "權威，領導力，穩定，規則，父性",
+        "love": "穩定關係，承諾，保護，負責任",
+        "career": "領導地位，組織能力，建立秩序",
+        "money": "財務規劃，穩健投資，長期規劃",
+        "health": "規律生活，自律，系統性保健",
+        "advice": "建立規則，展現領導力，保持穩定"
+      },
+      "reversed": {
+        "general": "專制，固執，缺乏彈性，權力濫用",
+        "love": "控制慾強，缺乏彈性，過於嚴厲",
+        "career": "獨裁作風，過度控制，缺乏同理心",
+        "money": "財務控制過度，風險規避，守舊",
+        "health": "過度要求自己，壓力大，僵化",
+        "advice": "放鬆控制，增加彈性，聆聽他人"
+      }
+    },
+    "description": "皇帝坐在石頭寶座上，手持權杖，象徵著權威與秩序。他代表著理性、規則和穩定的力量。",
+    "keywords": ["權威", "領導", "穩定", "規則", "理性", "保護"]
+  },
+  {
+    "id": 5,
+    "name": "教皇",
+    "nameEn": "The Hierophant",
+    "arcana": "major",
+    "suit": null,
+    "number": "5",
+    "image": "cards/Major05.jpg",
+    "url":"https://pyfate.github.io/waite/major/05/",
+    "meanings": {
+      "upright": {
+        "general": "傳統，教育，精神引，信仰，制度",
+        "love": "傳統關係，婚姻承諾，精神契合",
+        "career": "循規蹈矩，師徒關係，專業發展",
+        "money": "傳財，穩健投資，遵循建議",
+        "health": "傳統療法，尋求指導，心靈健康",
+        "advice": "尊重傳統，尋求指導，遵循規範"
+      },
+      "reversed": {
+        "general": "反叛，不合常規，質疑權威，束縛",
+        "love": "打破傳統，非主流關係，反抗約束",
+        "career": "挑戰常規，不循規蹈矩，創新思維",
+        "money": "非傳統投資，冒險，不聽建議",
+        "health": "另類療法，質疑傳統，自我摸索",
+        "advice": "打破常規，尋找自己的路，突破限制"
+      }
+    },
+    "description": "教皇坐在教堂中，手持權杖，兩位修士跪在他面前。這張牌象徵著傳統、教育和精神指引。",
+    "keywords": ["傳統", "教育", "信仰", "指引", "制度", "規範"]
+  },
+  {
+    "id": 6,
+    "name": "戀人",
+    "nameEn": "The Lovers",
+    "arcana": "major",
+    "suit": null,
+    "number": "6",
+    "image": "cards/Major06.jpg",
+    "url":"https://pyfate.github.io/waite/major/06/",
+    "meanings": {
+      "upright": {
+        "general": "選擇，愛情，和諧，關係，價值觀",
+        "love": "真愛，和諧關係，重要抉擇，靈魂伴侶",
+        "career": "合作關係，重要決定，價值認同",
+        "money": "財務選擇，合夥投資，價值判斷",
+        "health": "身心平衡，健康選擇，和諧狀態",
+        "advice": "跟隨內心，做出選擇，尋求和諧"
+      },
+      "reversed": {
+        "general": "不和諧，錯誤選擇，價值衝突，分離",
+        "love": "關係失衡，溝通障礙，價值觀不合",
+        "career": "合作困難，決策錯誤，理念衝突",
+        "money": "投資失誤，價值觀衝突，合夥問題",
+        "health": "身心失衡，猶豫不決，需要調整",
+        "advice": "重新評估，面對衝突，調整方向"
+      }
+    },
+    "description": "戀人牌描繪亞當夏娃在伊甸園中，天使在上方祝福。象徵著選擇、愛情與和諧的關係。",
+    "keywords": ["選擇", "愛情", "和諧", "關係", "價值觀", "結合"]
+  },
+  {
+    "id": 7,
+    "name": "戰車",
+    "nameEn": "The Chariot",
+    "arcana": "major",
+    "suit": null,
+    "number": "7",
+    "image": "cards/Major07.jpg",
+    "url":"https://pyfate.github.io/waite/major/07/",
+    "meanings": {
+      "upright": {
+        "general": "勝利，意志力，自我控制，決心，進展",
+        "love": "克服障礙，堅定追求，感情進展順利",
+        "career": "職業發展，目標達成，克服挑戰",
+        "money": "財務目標達成，克服困難，穩步前進",
+        "health": "意志力強，恢復力好，積極面對",
+        "advice": "保持專注，堅持目標，控制情緒"
+      },
+      "reversed": {
+        "general": "失控，阻礙，缺乏方向，自我懷疑",
+        "love": "感情受阻，方向不明，需要停下來思考",
+        "career": "計劃受阻，方向迷失，需要調整",
+        "money": "財務失控，目標受阻，需要重新規劃",
+        "health": "精力分散，壓力過大，需要休息",
+        "advice": "重新找回方向，避免強求，適時休息"
+      }
+    },
+    "description": "戰車由兩隻獅身人面獸拉動，戰士站立其上，象徵著透過意志力和自制力獲得的勝利。",
+    "keywords": ["勝利", "控制", "意志", "決心", "進展", "成功"]
+  },
+  {
+    "id": 8,
+    "name": "力量",
+    "nameEn": "Strength",
+    "arcana": "major",
+    "suit": null,
+    "number": "8",
+    "image": "cards/Major08.jpg",
+    "url":"https://pyfate.github.io/waite/major/08/",
+    "meanings": {
+      "upright": {
+        "general": "內在力量，勇氣，耐心，溫和，自信",
+        "love": "成熟的愛，溫柔堅定，克服困難",
+        "career": "內在實力，溫和領導，耐心處理",
+        "money": "穩健理財，長期投資，自信掌控",
+        "health": "內在療癒，心理健康，正向思維",
+        "advice": "相信自己，以柔克剛，保持耐心"
+      },
+      "reversed": {
+        "general": "自我懷疑，軟弱，缺乏信心，濫用力量",
+        "love": "情感脆弱，缺乏自信，過度依賴",
+        "career": "能力不足，缺乏自信，過度強勢",
+        "money": "財務不穩，信心不足，衝動決策",
+        "health": "意志消沉，身心疲憊，需要支持",
+        "advice": "重建信心，避免強求，尋求支持"
+      }
+    },
+    "description": "一位女子溫柔地制服獅子，象徵著通過溫和與耐心戰勝野性與困。",
+    "keywords": ["力量", "勇氣", "耐心", "溫和", "自信", "克制"]
+  },
+  {
+    "id": 9,
+    "name": "隱士",
+    "nameEn": "The Hermit",
+    "arcana": "major",
+    "suit": null,
+    "number": "9",
+    "image": "cards/Major09.jpg",
+    "url":"https://pyfate.github.io/waite/major/09/",
+    "meanings": {
+      "upright": {
+        "general": "內省，智慧，獨處，指引，靈性追求",
+        "love": "感情沉澱，自我了解，等待時機",
+        "career": "獨立工作，深入研究，尋求指導",
+        "money": "謹慎理財，獨立決策，深思熟慮",
+        "health": "靜養調理，心靈平靜，自我療癒",
+        "advice": "保持獨立，尋求智慧，深入思考"
+      },
+      "reversed": {
+        "general": "孤獨，封閉，迷失方向，逃避現實",
+        "love": "過度孤立，逃避關係，社交恐懼",
+        "career": "與團隊脫節，過度孤立，缺乏溝通",
+        "money": "財務封閉，缺乏建議，決策孤立",
+        "health": "社交焦慮，精神壓力，需要協助",
+        "advice": "適度社交，接受幫助，走出封閉"
+      }
+    },
+    "description": "隱士手持明燈獨自站在山頂，象徵著通過獨處和內省尋求智慧與真理。",
+    "keywords": ["智慧", "獨處", "指引", "內省", "靈性", "尋求"]
+  },
+  {
+    "id": 10,
+    "name": "命運之輪",
+    "nameEn": "Wheel of Fortune",
+    "arcana": "major",
+    "suit": null,
+    "number": "10",
+    "image": "cards/Major10.jpg",
+    "url":"https://pyfate.github.io/waite/major/10/",
+    "meanings": {
+      "upright": {
+        "general": "命運轉折，機會，循環，變化，好運",
+        "love": "緣分際會，感情轉機，命中注定",
+        "career": "事業轉機，升遷機會，時勢所趨",
+        "money": "財運好轉，意外收穫，投資機會",
+        "health": "康復轉機，改善機會，運勢上揚",
+        "advice": "把握機會，順應變化，接受命運"
+      },
+      "reversed": {
+        "general": "不幸，阻礙，停滯，抗拒改變",
+        "love": "感情受阻，緣分未到，需要等待",
+        "career": "職場受阻，機會流失，時運不濟",
+        "money": "財運下滑，損失，投資不順",
+        "health": "復原受阻，情況惡化，運勢低迷",
+        "advice": "耐心等待，順應變化，避免強求"
+      }
+    },
+    "description": "巨大的命運之輪上有各種神秘符號，象徵著生命的循環與變化，以及命運的起伏。",
+    "keywords": ["命運", "機會", "循環", "變化", "轉折", "時機"]
+  },
+  {
+    "id": 11,
+    "name": "正義",
+    "nameEn": "Justice",
+    "arcana": "major",
+    "suit": null,
+    "number": "11",
+    "image": "cards/Major11.jpg",
+    "url":"https://pyfate.github.io/waite/major/11/",
+    "meanings": {
+      "upright": {
+        "general": "公平，正義，真理，平衡，因果",
+        "love": "公平對待，誠實溝通，關係平衡",
+        "career": "公平競爭，合理報酬，法律事務",
+        "money": "公平交易，合理收益，法律保障",
+        "health": "身心平衡，合理作息，因果報應",
+        "advice": "秉持公正，誠實面對，保持平衡"
+      },
+      "reversed": {
+        "general": "不公平，偏見，失衡，逃避責任",
+        "love": "關係失衡，不誠實，偏心偏愛",
+        "career": "職場不公，偏袒，法律糾紛",
+        "money": "不當得利，財務糾紛，欺騙",
+        "health": "身心失衡，作息紊亂，壓力過大",
+        "advice": "面對真相，承責任，追求公平"
+      }
+    },
+    "description": "正義女神手持天秤與寶劍，象徵著公平、正義與真理的力量。",
+    "keywords": ["正義", "平衡", "真理", "因果", "公平", "誠實"]
+  },
+  {
+    "id": 12,
+    "name": "吊人",
+    "nameEn": "The Hanged Man",
+    "arcana": "major",
+    "suit": null,
+    "number": "12",
+    "image": "cards/Major12.jpg",
+    "url":"https://pyfate.github.io/waite/major/12/",
+    "meanings": {
+      "upright": {
+        "general": "犧牲，暫停，轉換視角，放下，領悟",
+        "love": "感情停滯，重新思考，我犧牲",
+        "career": "職業轉換，暫時休息，重新定位",
+        "money": "財務暫停，重新規劃，改變觀念",
+        "health": "調整生活，改變習慣，新的認知",
+        "advice": "改變視角，放下執著，等待時機"
+      },
+      "reversed": {
+        "general": "無謂犧牲，停滯，抗拒改變，執著",
+        "love": "無意義等待，過度犧牲，難以放下",
+        "career": "職業倦怠，毫無進展，需要改變",
+        "money": "財務停滯，投資受困，需要調整",
+        "health": "惡習難改，身心俱疲，需要突破",
+        "advice": "避免無謂犧牲，尋求改變，放下執著"
+      }
+    },
+    "description": "一個人倒掛在樹上，表情安詳，象徵著通過自願的犧牲獲得新的視角和領悟。",
+    "keywords": ["犧牲", "暫停", "領悟", "放下", "轉換", "等待"]
+  },
+  {
+    "id": 13,
+    "name": "死神",
+    "nameEn": "Death",
+    "arcana": "major",
+    "suit": null,
+    "number": "13",
+    "image": "cards/Major13.jpg",
+    "url":"https://pyfate.github.io/waite/major/13/",
+    "meanings": {
+      "upright": {
+        "general": "轉變，結束，重生，蛻變，放下",
+        "love": "關係轉變，舊情結束，新的開始",
+        "career": "職業轉換，結束舊階段，新機會",
+        "money": "財務重組，結束舊模式，新計畫",
+        "health": "重大改變，康復轉機，新生活",
+        "advice": "接受改變，放下過去，迎接新生"
+      },
+      "reversed": {
+        "general": "抗拒改變，停滯，恐懼，無法放下",
+        "love": "難以放下，害怕改變，陷入過去",
+        "career": "抗拒轉變，停滯不前，害怕失去",
+        "money": "財務停滯，抗拒改變，守舊",
+        "health": "恢復緩慢，抗拒改變，需要突破",
+        "advice": "面對改變，放下恐懼，接受轉變"
+      }
+    },
+    "description": "死神騎著白馬，手持黑旗，象徵著必然的改變和轉變，以及新生的可能。",
+    "keywords": ["轉變", "結束", "重生", "放下", "蛻變", "新生"]
+  },
+  {
+    "id": 14,
+    "name": "節制",
+    "nameEn": "Temperance",
+    "arcana": "major",
+    "suit": null,
+    "number": "14",
+    "image": "cards/Major14.jpg",
+    "url":"https://pyfate.github.io/waite/major/14/",
+    "meanings": {
+      "upright": {
+        "general": "平衡，節制，調和，耐心，中庸",
+        "love": "感情和諧，互相包容，平衡關係",
+        "career": "工作平衡，團隊合作，協調能力",
+        "money": "財務平衡，適度理財，穩健發展",
+        "health": "身心平衡，生活規律，和諧狀態",
+        "advice": "保持平衡，耐心等待，適可而止"
+      },
+      "reversed": {
+        "general": "失衡，極端，衝突，缺乏耐心",
+        "love": "關係失衡，極端情緒，缺乏包容",
+        "career": "工作失衡，團隊衝突，配合不當",
+        "money": "財務失衡，過度消費，投機心態",
+        "health": "作息不規律，身心失調，需要調整",
+        "advice": "避免極端，尋求平衡，養心"
+      }
+    },
+    "description": "天使在兩個杯子之間倒水，象徵著調和與平衡的藝術，以及耐心與節制的美德。",
+    "keywords": ["平衡", "節制", "調和", "耐心", "中庸", "融合"]
+  },
+  {
+    "id": 15,
+    "name": "惡魔",
+    "nameEn": "The Devil",
+    "arcana": "major",
+    "suit": null,
+    "number": "15",
+    "image": "cards/Major15.jpg",
+    "url":"https://pyfate.github.io/waite/major/15/",
+    "meanings": {
+      "upright": {
+        "general": "束縛，慾望，誘惑，執著，物質主義",
+        "love": "不健康關係，慾望主導，過度依戀",
+        "career": "工作壓力，受制於人，不當競爭",
+        "money": "物質執著，揮霍無度，財務束縛",
+        "health": "不良習慣，沉溺，需要節制",
+        "advice": "認清束縛，克製慾望，尋求自由"
+      },
+      "reversed": {
+        "general": "掙脫束縛，覺醒，擺脫依賴，自由",
+        "love": "擺脫不良關係，重獲自由，清醒",
+        "career": "擺脫壓力，獨立自主，突破限制",
+        "money": "擺脫債務，改善習慣，重獲自由",
+        "health": "戒除惡習，改善健康，重獲活力",
+        "advice": "勇於改變，擺脫束縛，追求自由"
+      }
+    },
+    "description": "惡魔座下有被鎖鏈束縛的人物，象徵著物質慾望束縛與誘惑。",
+    "keywords": ["束縛", "慾望", "誘惑", "執著", "物質", "依賴"]
+  },
+  {
+    "id": 16,
+    "name": "高塔",
+    "nameEn": "The Tower",
+    "arcana": "major",
+    "suit": null,
+    "number": "16",
+    "image": "cards/Major16.jpg",
+    "url":"https://pyfate.github.io/waite/major/16/",
+    "meanings": {
+      "upright": {
+        "general": "突變，崩塌，震撼，醒悟，解放",
+        "love": "關係破裂，突然分離，重大改變",
+        "career": "職場動盪，突然變動，計畫打亂",
+        "money": "財務危機，突然損失，計畫失敗",
+        "health": "突發狀況，意外事，重大改變",
+        "advice": "接受改變，面對現實，重新開始"
+      },
+      "reversed": {
+        "general": "避免災難，必要改變，延遲的轉變",
+        "love": "避免分離，關係重建，危機處理",
+        "career": "避免失業，及時調整，化險為夷",
+        "money": "避免破產，及時止損，轉機出現",
+        "health": "及時治療，避免惡化，康復機會",
+        "advice": "及時改變，避免災難，把握機會"
+      }
+    },
+    "description": "閃電擊中高塔，人們從塔上墜落，象徵著突如其來的改變舊有結構的崩塌。",
+    "keywords": ["突變", "崩塌", "震撼", "醒悟", "解放", "重建"]
+  },
+  {
+    "id": 17,
+    "name": "星星",
+    "nameEn": "The Star",
+    "arcana": "major",
+    "suit": null,
+    "number": "17",
+    "image": "cards/Major17.jpg",
+    "url":"https://pyfate.github.io/waite/major/17/",
+    "meanings": {
+      "upright": {
+        "general": "希望，靈感，平靜，信心，治癒",
+        "love": "美好願景，理想關係，純淨之愛",
+        "career": "理想實現，創意靈感，展望未來",
+        "money": "財運亨通，理想達成，信心恢復",
+        "health": "康復順利，心靈平靜，充滿希望",
+        "advice": "保持希望，相信未來，追求理想"
+      },
+      "reversed": {
+        "general": "失望，幻滅，喪失信心，迷失方向",
+        "love": "幻想破滅，失去信心，理想幻滅",
+        "career": "理想落空，創意枯竭，方向迷失",
+        "money": "財務失望，信心動搖，需要調整",
+        "health": "復原受阻，心情低落，需要鼓勵",
+        "advice": "重建信心，調整期望，保持希望"
+      }
+    },
+    "description": "一位女子在星空下倒水入池中，象徵著希望、靈感與心靈的治癒。",
+    "keywords": ["望", "靈感", "平靜", "信心", "治癒", "理想"]
+  },
+  {
+    "id": 18,
+    "name": "月亮",
+    "nameEn": "The Moon",
+    "arcana": "major",
+    "suit": null,
+    "number": "18",
+    "image": "cards/Major18.jpg",
+    "url":"https://pyfate.github.io/waite/major/18/",
+    "meanings": {
+      "upright": {
+        "general": "直覺，幻想，恐懼，迷惑，潛意識",
+        "love": "感情迷惘，直覺感受，隱藏情緒",
+        "career": "工作不確定，隱藏問題，需要澄清",
+        "money": "財務不明，隱憂浮現，需要謹慎",
+        "health": "身心困擾，情緒起伏，需要關注",
+        "advice": "相信直覺，面對恐懼，澄清迷惘"
+      },
+      "reversed": {
+        "general": "澄清，真相大白，克服恐懼，清醒",
+        "love": "感情明朗，真相揭露，走出迷惘",
+        "career": "問題解決，真相明朗，方向清晰",
+        "money": "財務明朗，風險解除，局勢明確",
+        "health": "症狀明確，情緒穩定，恢復清晰",
+        "advice": "面對真相，走出迷惘，保持清醒"
+      }
+    },
+    "description": "月光下，狗和狼對月長嚎，象徵著潛意識的恐懼和迷惘，以及直覺的力量。",
+    "keywords": ["直覺", "幻想", "恐懼", "迷惑", "潛意識", "神秘"]
+  },
+  {
+    "id": 19,
+    "name": "太陽",
+    "nameEn": "The Sun",
+    "arcana": "major",
+    "suit": null,
+    "number": "19",
+    "image": "cards/Major19.jpg",
+    "url":"https://pyfate.github.io/waite/major/19/",
+    "meanings": {
+      "upright": {
+        "general": "快樂，成功，活力，光明，真理",
+        "love": "幸福關係，熱情似火，光明未來",
+        "career": "事業有成，展現才華，充滿活力",
+        "money": "財運亨通，收入增加，前景光明",
+        "health": "充滿活力，康復順利，陽光燦爛",
+        "advice": "保持樂觀，展現自我，擁抱快樂"
+      },
+      "reversed": {
+        "general": "暫時陰霾，過度樂觀，虛假光明",
+        "love": "表面歡樂，虛假關係，需要真誠",
+        "career": "表面成功，驕傲自滿，需要謙遜",
+        "money": "虛假繁榮，過度樂觀，需要務實",
+        "health": "精力耗，表面健康，需要休息",
+        "advice": "保持真實，適度期望，務實前進"
+      }
+    },
+    "description": "太陽下方有個騎著白馬的孩子，象徵著純真的喜悅和無憂無慮的快樂。",
+    "keywords": ["快樂", "成功", "活力", "光明", "真理", "純真"]
+  },
+  {
+    "id": 20,
+    "name": "審判",
+    "nameEn": "Judgement",
+    "arcana": "major",
+    "suit": null,
+    "number": "20",
+    "image": "cards/Major20.jpg",
+    "url":"https://pyfate.github.io/waite/major/20/",
+    "meanings": {
+      "upright": {
+        "general": "覺醒，重生，召喚，評估，寬恕",
+        "love": "關係重生，重新開始，寬恕和解",
+        "career": "職業覺醒，重新定位，新的召喚",
+        "money": "財務重整，重新評估，新的規劃",
+        "health": "浴火重生，徹底改變，重獲健康",
+        "advice": "接受召喚，重新開始，寬恕過去"
+      },
+      "reversed": {
+        "general": "拒絕改變，自我懷疑，無法寬恕",
+        "love": "拒絕和解，無法原諒，過去糾結",
+        "career": "抗拒轉變，猶豫不決，錯失機會",
+        "money": "財務停滯，拒絕改變，無法前進",
+        "health": "康復受阻，抗拒改變，需要突",
+        "advice": "面對改變，放下過去，接受新生"
+      }
+    },
+    "description": "天使吹響號角，人們從棺材中復活，象徵著重生與新生命的召喚。",
+    "keywords": ["覺醒", "重生", "召喚", "評估", "寬恕", "新生"]
+  },
+  {
+    "id": 21,
+    "name": "世界",
+    "nameEn": "The World",
+    "arcana": "major",
+    "suit": null,
+    "number": "21",
+    "image": "cards/Major21.jpg",
+    "url":"https://pyfate.github.io/waite/major/21/",
+    "meanings": {
+      "upright": {
+        "general": "完成，圓滿，成就，整合，旅行",
+        "love": "圓滿係，感情成就，完美結合",
+        "career": "事業有成，目標達成，完美收官",
+        "money": "財務圓滿，投資成功，豐碩成果",
+        "health": "身心和諧，完全康復，圓滿狀態",
+        "advice": "慶祝成就，享受圓滿，展望未來"
+      },
+      "reversed": {
+        "general": "未完成，停滯，拖延，缺乏整合",
+        "love": "關係未完，缺乏圓滿，需要努力",
+        "career": "目標未達，計畫延宕，需要堅持",
+        "money": "財務未完，成果延遲，需要耐心",
+        "health": "康復未完，需要堅持，繼續努力",
+        "advice": "持續努力，完成目標，追求圓滿"
+      }
+    },
+    "description": "一位舞者在花環中跳舞，四角有四個生物，象徵著完整與圓滿的成就。",
+    "keywords": ["完成", "圓滿", "成就", "整合", "旅行", "和諧"]
+  },
+  {
+    "id": 22,
+    "name": "寶劍王牌",
+    "nameEn": "Ace of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "1",
+    "image": "cards/Swords01.jpg",
+    "url":"https://pyfate.github.io/waite/swords/01/",
+    "meanings": {
+      "upright": {
+        "general": "新的想法，清晰思維，突破，真理",
+        "love": "清楚表達，理性溝通，新的認知",
+        "career": "新計畫，明目標，理性決策",
+        "money": "明智決定，清晰判斷，新的規劃",
+        "health": "明確診斷，清楚方向，新的治療",
+        "advice": "保持清晰，追真理，勇於突破"
+      },
+      "reversed": {
+        "general": "混亂思維，錯誤判斷，過度理性",
+        "love": "溝通障礙，思維混亂，過度分析",
+        "career": "計畫混亂，目標不清，決策錯誤",
+        "money": "判斷失誤，思維混亂，規劃不當",
+        "health": "診斷不明，方向混亂，需要clarity",
+        "advice": "理清思，避免混亂保持理性"
+      }
+    },
+    "description": "一隻手從雲中伸出，握著一把寶劍，象徵著思維的力量和真理的追求。",
+    "keywords": ["開始", "真理", "思維", "突破", "清晰", "理性"]
+  },
+  {
+    "id": 23,
+    "name": "寶劍二",
+    "nameEn": "Two of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "2",
+    "image": "cards/Swords02.jpg",
+    "url":"https://pyfate.github.io/waite/swords/02/",
+    "meanings": {
+      "upright": {
+        "general": "選擇困難，平衡，中立，猶豫",
+        "love": "感情兩難，需要選擇，保持中立",
+        "career": "職業抉擇，權衡利弊，需要決定",
+        "money": "財務兩難，需要平衡，審慎決定",
+        "health": "治療選擇，平衡身心，需要決定",
+        "advice": "做出選擇，保持平衡，相信直覺"
+      },
+      "reversed": {
+        "general": "解除僵局，面對現實，做出決定",
+        "love": "打破僵局，面對感情，做出抉擇",
+        "career": "突破困境，做出決定，前進方向",
+        "money": "解決兩難，做出決策，清楚方向",
+        "health": "明確方向，解除疑慮，開始行動",
+        "advice": "勇於抉擇，面對現實，突破困境"
+      }
+    },
+    "description": "蒙眼女子手持兩把寶劍，象徵著需要在兩難中做出選擇。",
+    "keywords": ["選擇", "平衡", "猶豫", "中立", "決定", "兩難"]
+  },
+  {
+    "id": 24,
+    "name": "寶劍三",
+    "nameEn": "Three of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "3",
+    "image": "cards/Swords03.jpg",
+    "url":"https://pyfate.github.io/waite/swords/03/",
+    "meanings": {
+      "upright": {
+        "general": "心碎，悲傷，失落，痛苦，分離",
+        "love": "感情受傷，分手，背叛，心痛",
+        "career": "職場挫折，失望，計畫失敗",
+        "money": "財務損失，投資失敗，經濟困境",
+        "health": "身心痛苦，情緒低落，需要療癒",
+        "advice": "面對痛苦，接受現實，尋求療癒"
+      },
+      "reversed": {
+        "general": "復原，寬恕，釋放，接受，療癒",
+        "love": "走出傷痛，寬恕放下，重新開始",
+        "career": "克服挫折，吸取教訓，重新出發",
+        "money": "財務恢復，損失止血，開始重建",
+        "health": "逐漸康復，情緒改善，走出陰霾",
+        "advice": "放下過去，原諒自己，向前邁進"
+      }
+    },
+    "description": "三把寶劍刺穿一顆心，象徵著心靈的創傷和情感的痛苦。",
+    "keywords": ["心碎", "悲傷", "痛苦", "分離", "失落", "療癒"]
+  },
+  {
+    "id": 25,
+    "name": "寶劍四",
+    "nameEn": "Four of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "4",
+    "image": "cards/Swords04.jpg",
+    "url":"https://pyfate.github.io/waite/swords/04/",
+    "meanings": {
+      "upright": {
+        "general": "休息，恢復，沉思，休養，平靜",
+        "love": "感情沉澱，暫時分開，靜心思考",
+        "career": "工作休息，充電時期，調整方向",
+        "money": "務休整，暫停投資，重新規劃",
+        "health": "休養生息，恢復體力，放鬆心情",
+        "advice": "適當休息，沉澱心靈，恢復能量"
+      },
+      "reversed": {
+        "general": "重返工作，活動增加，準備行動",
+        "love": "重新開始，恢復互動，行動表達",
+        "career": "復工職，重新投，開始行動",
+        "money": "恢復運作，重新投資，開始行動",
+        "health": "逐漸康復，重新活動，恢復正常",
+        "advice": "適時行動，重新投入，保持平衡"
+      }
+    },
+    "description": "一位騎士躺在石棺上休息，象徵著休養生息和沉思的時期。",
+    "keywords": ["休息", "恢復", "沉思", "平靜", "休養", "沉澱"]
+  },
+  {
+    "id": 26,
+    "name": "寶劍五",
+    "nameEn": "Five of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "5",
+    "image": "cards/Swords05.jpg",
+    "url":"https://pyfate.github.io/waite/swords/05/",
+    "meanings": {
+      "upright": {
+        "general": "衝突，失敗，挫折，爭執，競爭",
+        "love": "感情糾紛，爭吵不休，關係緊張",
+        "career": "職場競爭，人際衝突，團隊矛盾",
+        "money": "財務糾紛，競爭失利，利益衝突",
+        "health": "身心壓力，情緒緊張，需要調適",
+        "advice": "避免衝突，適度退讓，明智選擇"
+      },
+      "reversed": {
+        "general": "和解，妥協，重新開始，釋懷",
+        "love": "化解衝突，重修舊好，互相體諒",
+        "career": "緩和係，團隊合作，化解矛盾",
+        "money": "解決糾紛，達成共識，重新合作",
+        "health": "壓力舒緩，情緒平復，恢復平靜",
+        "advice": "尋求和解，放下對立，重新開始"
+      }
+    },
+    "description": "一個人得意地收集戰利品，其他人失望離去，象徵著衝突與競爭的結果。",
+    "keywords": ["衝突", "失敗", "競爭", "爭執", "挫折", "和解"]
+  },
+  {
+    "id": 27,
+    "name": "寶劍六",
+    "nameEn": "Six of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "6",
+    "image": "cards/Swords06.jpg",
+    "url":"https://pyfate.github.io/waite/swords/06/",
+    "meanings": {
+      "upright": {
+        "general": "過渡，轉變，離開，旅程，前進",
+        "love": "感情轉折，關係轉變，放下過去",
+        "career": "工作調動，環境改變，新的機會",
+        "money": "財務轉型，投資轉向，改善現狀",
+        "health": "逐漸康復，改善狀況，邁向健康",
+        "advice": "接受改變，勇於前進，邁向未來"
+      },
+      "reversed": {
+        "general": "停滯不前，無法放下，困境難解",
+        "love": "無法放下，停滯不前，需要勇氣",
+        "career": "原地踏步，無法改變，需要突破",
+        "money": "財務停滯，無法改善，需要行動",
+        "health": "康復停滯，無法改善，需要耐心",
+        "advice": "面對改變，克服恐懼，勇於嘗試"
+      }
+    },
+    "description": "一艘船載著人們渡河，象徵著離開困境，邁向新的階段。",
+    "keywords": ["過渡", "轉變", "旅程", "前進", "改變", "放下"]
+  },
+  {
+    "id": 28,
+    "name": "寶劍七",
+    "nameEn": "Seven of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "7",
+    "image": "cards/Swords07.jpg",
+    "url":"https://pyfate.github.io/waite/swords/07/",
+    "meanings": {
+      "upright": {
+        "general": "欺騙，狡猾，策略，逃避，偷竊",
+        "love": "感情欺騙，隱瞞相，不誠實",
+        "career": "職場陰謀，背後手，不正當競爭",
+        "money": "財務欺詐，不當手段，投機取巧",
+        "health": "隱瞞病情，逃避治療，自欺欺人",
+        "advice": "保持誠實，面對現實，避免投機"
+      },
+      "reversed": {
+        "general": "坦白，懺悔，面對現實，承擔責任",
+        "love": "坦誠相見，修復關係，重建信任",
+        "career": "改正錯誤，光明正大，重建信譽",
+        "money": "誠實經營，改正方向，重建信用",
+        "health": "面對現實，積極治療，誠實面對",
+        "advice": "保持誠實，改正錯誤，重建信任"
+      }
+    },
+    "description": "一個人偷偷帶走五把寶劍，留下兩把，象徵著狡猾和欺騙的行為。",
+    "keywords": ["欺騙", "策略", "逃避", "狡猾", "偷竊", "誠實"]
+  },
+  {
+    "id": 29,
+    "name": "寶劍八",
+    "nameEn": "Eight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "8",
+    "image": "cards/Swords08.jpg",
+    "url":"https://pyfate.github.io/waite/swords/08/",
+    "meanings": {
+      "upright": {
+        "general": "受限，束縛，困境，無助，自我限制",
+        "love": "感情受限，無法突破，自我設限",
+        "career": "工作受限，發展受阻，環境束縛",
+        "money": "財務受限，無法改善，困境難解",
+        "health": "身心受限，無法改善，需要突破",
+        "advice": "打破束縛，突破限制，尋求幫助"
+      },
+      "reversed": {
+        "general": "解脫，釋放，突破，自由，新生",
+        "love": "突破困境，重獲自由，關係改善",
+        "career": "擺脫束縛，開創新局，發展機會",
+        "money": "財務改善，突破困境，重獲自由",
+        "health": "康復進展，突破瓶頸，重獲健康",
+        "advice": "勇於突破，擺脫束縛，把握機會"
+      }
+    },
+    "description": "一位蒙眼女子被八把寶劍圍繞，象徵著自我設限和外在束縛。",
+    "keywords": ["束縛", "限制", "困境", "無助", "突破", "自由"]
+  },
+  {
+    "id": 30,
+    "name": "寶劍九",
+    "nameEn": "Nine of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "9",
+    "image": "cards/Swords09.jpg",
+    "url":"https://pyfate.github.io/waite/swords/09/",
+    "meanings": {
+      "upright": {
+        "general": "焦慮，噩夢，恐懼，憂慮，壓力",
+        "love": "感情困擾，擔憂害怕，無法安眠",
+        "career": "工作壓力，過度憂慮，精神緊張",
+        "money": "務憂慮，經濟壓力，無法安心",
+        "health": "精神壓力，失眠困擾，焦慮症狀",
+        "advice": "面對恐懼，尋求幫助，保持冷靜"
+      },
+      "reversed": {
+        "general": "走出陰霾，恢復希望，釋放壓力",
+        "love": "化解憂慮，重拾信心，感情改善",
+        "career": "壓力減輕，調適心態，重獲平靜",
+        "money": "憂慮消除，壓力舒緩，心情平復",
+        "health": "焦慮改善，睡眠恢復，心情轉好",
+        "advice": "放下憂慮，保持希望，相信未來"
+      }
+    },
+    "description": "一個人在床上驚醒，九把寶劍掛在牆上，象徵著內心的焦慮和恐懼。",
+    "keywords": ["焦慮", "噩夢", "恐懼", "憂慮", "壓力", "希望"]
+  },
+  {
+    "id": 31,
+    "name": "寶劍十",
+    "nameEn": "Ten of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "10",
+    "image": "cards/Swords10.jpg",
+    "url":"https://pyfate.github.io/waite/swords/10/",
+    "meanings": {
+      "upright": {
+        "general": "結束，失敗，痛苦，背叛，絕望",
+        "love": "感情結束，徹底分手，痛苦背叛",
+        "career": "事業低谷，徹底失敗，被迫結束",
+        "money": "財務崩潰，重大損失，徹底失敗",
+        "health": "嚴重不適，身心俱疲，需要休養",
+        "advice": "接受結束，重新開始，走出低谷"
+      },
+      "reversed": {
+        "general": "復原，重生，新的開始，走出低谷",
+        "love": "走出傷痛，重新開始，新的希望",
+        "career": "東山再起，重新開始，吸取教訓",
+        "money": "財務重整，重新開始，改善現狀",
+        "health": "逐漸康復，重獲健康，走出陰霾",
+        "advice": "接改變，重新開始，保持希望"
+      }
+    },
+    "description": "一個人倒在地上，背上插著十把寶劍，象徵著徹底的失敗和結束。",
+    "keywords": ["結束", "失敗", "痛苦", "背叛", "重生", "希望"]
+  },
+  {
+    "id": 32,
+    "name": "寶劍侍者",
+    "nameEn": "Page of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "11",
+    "image": "cards/Swords11.jpg",
+    "url":"https://pyfate.github.io/waite/swords/11/",
+    "meanings": {
+      "upright": {
+        "general": "新想法，好奇心，學習，觀察，機敏",
+        "love": "新的認識，純真感情，理性觀察",
+        "career": "學習機會，新知識，觀察入微",
+        "money": "理財學習，謹慎觀察，新的認知",
+        "health": "健康意識，學習保健，留意身體",
+        "advice": "保持好奇，持續學習，細心觀察"
+      },
+      "reversed": {
+        "general": "輕率，不成熟，缺乏專注，散漫",
+        "love": "感情不成熟，輕率行事，缺乏耐心",
+        "career": "學習不專注，粗心大意，欠缺毅力",
+        "money": "理財不當，輕率決策，欠缺考慮",
+        "health": "忽視健康，生活散漫，需要規律",
+        "advice": "提高專注，培養耐心，謹慎行事"
+      }
+    },
+    "description": "年輕人高舉寶劍觀察四周，象徵著求知慾望和敏銳的觀察力。",
+    "keywords": ["好奇", "學習", "觀察", "機敏", "新知", "純真"]
+  },
+  {
+    "id": 33,
+    "name": "寶劍騎士",
+    "nameEn": "Knight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "12",
+    "image": "cards/Swords12.jpg",
+    "url":"https://pyfate.github.io/waite/swords/12/",
+    "meanings": {
+      "upright": {
+        "general": "行動力，果斷，衝勁，直接，挑戰",
+        "love": "熱情追求，直接表達，勇於追愛",
+        "career": "積極進取，勇於挑戰，目標明確",
+        "money": "果斷投資，快速行動，承擔風險",
+        "health": "積極治療，行動力強，恢復迅速",
+        "advice": "果斷行動，勇於挑戰，把握機會"
+      },
+      "reversed": {
+        "general": "魯莽，衝動，欠缺考慮，魯莽",
+        "love": "感情衝動，欠缺考慮，過於急進",
+        "career": "行事魯莽，欠缺規劃，容易衝突",
+        "money": "投資衝動，風險過高，需要謹慎",
+        "health": "過度勞累，欠缺休息，需要節制",
+        "advice": "三思而行，避免衝動，適度節制"
+      }
+    },
+    "description": "騎士騎著白馬奔馳，手持寶劍，象徵著果斷的行動力和勇往直前精神。",
+    "keywords": ["行動", "果斷", "挑戰", "直接", "衝勁", "勇氣"]
+  },
+  {
+    "id": 34,
+    "name": "寶劍皇后",
+    "nameEn": "Queen of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "13",
+    "image": "cards/Swords13.jpg",
+    "url":"https://pyfate.github.io/waite/swords/13/",
+    "meanings": {
+      "upright": {
+        "general": "理性，獨立，智慧，洞察，公正",
+        "love": "理性判斷，獨立自主，清晰溝通",
+        "career": "專業能力，獨立思考，明智決策",
+        "money": "理性投資，獨立決策，精準判斷",
+        "health": "理性對待，專業諮詢，明智選擇",
+        "advice": "保持理性，獨立思考，明智抉擇"
+      },
+      "reversed": {
+        "general": "刻薄，冷漠，過度理性，偏見",
+        "love": "感情冷淡，缺乏溫度，過度理性",
+        "career": "過於嚴苛，人際冷淡，缺乏彈性",
+        "money": "過度保守，缺乏彈性，錯失機會",
+        "health": "過度擔憂，鑽牛角尖，需要放鬆",
+        "advice": "增添溫度，保持彈性，適度關懷"
+      }
+    },
+    "description": "皇后端坐在寶座上，手持寶劍，象徵著理性、智慧與獨立的特質。",
+    "keywords": ["理性", "獨立", "智慧", "洞察", "公正", "清晰"]
+  },
+  {
+    "id": 35,
+    "name": "寶劍國王",
+    "nameEn": "King of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": "14",
+    "image": "cards/Swords14.jpg",
+    "url":"https://pyfate.github.io/waite/swords/14/",
+    "meanings": {
+      "upright": {
+        "general": "權威，理智，公正，領導，決斷",
+        "love": "理性決定，公平對待，明確立場",
+        "career": "領導能力，決策果斷，專業權威",
+        "money": "理性規劃，果斷決策，專業建議",
+        "health": "專業診治，理性對待，明確方向",
+        "advice": "理性決策，保持公正，展現權威"
+      },
+      "reversed": {
+        "general": "專制，暴虐，濫用權力，不公",
+        "love": "感情專制，強勢控制，缺乏體諒",
+        "career": "濫用職權，獨斷專行，不當領導",
+        "money": "財務專制，過度控制，決策偏差",
+        "health": "過度要求，強迫行事，需要放鬆",
+        "advice": "避免專制，傾聽他人，適度放權"
+      }
+    },
+    "description": "國王坐在寶座上，手持寶劍，象徵著理性的權威和公正的判斷。",
+    "keywords": ["權威", "理智", "公正", "領導", "決斷", "專業"]
+  },
+  {
+    "id": 36,
+    "name": "聖杯王牌",
+    "nameEn": "Ace of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "1",
+    "image": "cards/Cups01.jpg",
+    "url":"https://pyfate.github.io/waite/cups/01/",
+    "meanings": {
+      "upright": {
+        "general": "新的感情愛的開始，創造力，直覺",
+        "love": "新戀情，感情萌芽，純真之愛",
+        "career": "創意靈感，新的熱情，感性工作",
+        "money": "感性投資，直覺判斷，新的機會",
+        "health": "情緒療癒，心靈滿足，健康開始",
+        "advice": "開放心胸，接受愛意，相信直覺"
+      },
+      "reversed": {
+        "general": "情感受阻，創意枯竭，直覺失準",
+        "love": "感情不順，無法投入，情感封閉",
+        "career": "靈感枯竭，熱情消退，缺乏動力",
+        "money": "判斷失誤，機會流失，需要冷靜",
+        "health": "情緒低落，心靈空虛，需要關愛",
+        "advice": "重拾信心，打開心房，保持希望"
+      }
+    },
+    "description": "一隻手捧著聖杯，象徵著愛與創造力的新開始。",
+    "keywords": ["開始", "愛", "創造", "直覺", "感受", "機會"]
+  },
+  {
+    "id": 37,
+    "name": "聖杯二",
+    "nameEn": "Two of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "2",
+    "image": "cards/Cups02.jpg",
+    "url":"https://pyfate.github.io/waite/cups/02/",
+    "meanings": {
+      "upright": {
+        "general": "結合，和諧，伙伴關係，互相理解",
+        "love": "相愛，互相吸引，感情和諧",
+        "career": "合作愉快，團隊和諧，互相支持",
+        "money": "合作共贏，互惠互利，共同投資",
+        "health": "身心平衡，互相照顧，和諧康復",
+        "advice": "保持和諧，互相理解，共同成長"
+      },
+      "reversed": {
+        "general": "分離，不和諧，誤解，衝突",
+        "love": "感情不和，互不理解，關係緊張",
+        "career": "合作困難，團隊不和，缺乏默契",
+        "money": "合作失敗，利益衝突，需要協調",
+        "health": "身心失衡，關係緊張，需要調適",
+        "advice": "化解誤會，重建和諧，互相包容"
+      }
+    },
+    "description": "一男一女舉杯相對，象徵著和諧的結合與互相理解。",
+    "keywords": ["結合", "和諧", "伙伴", "理解", "合作", "平衡"]
+  },
+  {
+    "id": 38,
+    "name": "聖杯三",
+    "nameEn": "Three of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "3",
+    "image": "cards/Cups03.jpg",
+    "url":"https://pyfate.github.io/waite/cups/03/",
+    "meanings": {
+      "upright": {
+        "general": "慶祝，歡樂，友情，團體活動",
+        "love": "感情歡樂，社交活躍，共享快樂",
+        "career": "團隊成功，共同慶祝，愉快合作",
+        "money": "財運亨通，共享成果，慶祝收穫",
+        "health": "身心愉悅，朋友支持，樂觀康復",
+        "advice": "享受歡樂，分享喜悅，珍惜友情"
+      },
+      "reversed": {
+        "general": "過度放縱，虛假歡樂，團體失和",
+        "love": "三角關係，表面歡樂，缺乏真誠",
+        "career": "團隊失和，表面和諧，過度社交",
+        "money": "揮霍無度，過度消費，需要節制",
+        "health": "縱慾過度，表面健康，需要節制",
+        "advice": "適度節制，保持真誠，避免放縱"
+      }
+    },
+    "description": "三位女子舉杯歡慶，象徵著友情與共同的歡樂。",
+    "keywords": ["慶祝", "歡樂", "友情", "分享", "團體", "喜悅"]
+  },
+  {
+    "id": 39,
+    "name": "聖杯四",
+    "nameEn": "Four of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "4",
+    "image": "cards/Cups04.jpg",
+    "url":"https://pyfate.github.io/waite/cups/04/",
+    "meanings": {
+      "upright": {
+        "general": "倦怠，無趣，不滿足，冷漠，錯失",
+        "love": "感情倦怠，失去熱情，視而不見",
+        "career": "工作倦怠，缺乏熱情，錯失機會",
+        "money": "對財富冷漠，錯失機會，需要覺醒",
+        "health": "情緒低落，精神倦怠，需要振作",
+        "advice": "重拾熱情，把握機會，改變心態"
+      },
+      "reversed": {
+        "general": "覺醒，新機會，重拾熱情，行動",
+        "love": "重拾熱情，把握機會，重新開始",
+        "career": "重獲動力，把握機會，新的方向",
+        "money": "發現機會，重新投入，積極行動",
+        "health": "重拾活力，改善心態，積極面對",
+        "advice": "把握機會，重拾熱情，積極行動"
+      }
+    },
+    "description": "一個人坐在樹下沉思，對眼前的三個杯子無動於衷，而天空中出現第四個杯子。",
+    "keywords": ["倦怠", "無趣", "不滿", "冷漠", "機會", "覺醒"]
+  },
+  {
+    "id": 40,
+    "name": "聖杯五",
+    "nameEn": "Five of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "5",
+    "image": "cards/Cups05.jpg",
+    "url":"https://pyfate.github.io/waite/cups/05/",
+    "meanings": {
+      "upright": {
+        "general": "失落，遺憾，悲傷，執著過去，錯失",
+        "love": "感情失落，執著過去，無法放下",
+        "career": "工作挫折，懊悔過去，需要前進",
+        "money": "投資損失，懊悔不已，需要放下",
+        "health": "情緒低落，沉溺悲傷，需要振作",
+        "advice": "放下過去，看見希望，重新出發"
+      },
+      "reversed": {
+        "general": "接受，前進，新希望，復原，放下",
+        "love": "走出傷痛，接受現實，重新開始",
+        "career": "克服挫折，重新出發，把握現在",
+        "money": "接受損失，重新規劃，開創未來",
+        "health": "情緒復原，走出低潮，重拾希望",
+        "advice": "接受現實，放下過去，展望未來"
+      }
+    },
+    "description": "一個人披著黑袍，注視著三個倒下的杯子，背後還有兩個直立的杯子。",
+    "keywords": ["失落", "遺憾", "悲傷", "執著", "希望", "接受"]
+  },
+  {
+    "id": 41,
+    "name": "聖杯六",
+    "nameEn": "Six of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "6",
+    "image": "cards/Cups06.jpg",
+    "url":"https://pyfate.github.io/waite/cups/06/",
+    "meanings": {
+      "upright": {
+        "general": "懷舊，純真，回憶，童年，單純",
+        "love": "純真之愛，舊情重溫，單純快樂",
+        "career": "舊夢重溫，單純快樂，重拾熱情",
+        "money": "穩定收入，單純理財，知足常樂",
+        "health": "回復童心，單純快樂，心靈健康",
+        "advice": "保持純真，珍惜當下，享受簡單"
+      },
+      "reversed": {
+        "general": "沉溺過去，停滯不前，需要前進",
+        "love": "執著過去，無法前進，需要放下",
+        "career": "固守舊習，無法創新，需要改變",
+        "money": "守舊理財，缺乏創新，需要突破",
+        "health": "沉溺往事，無法向前，需要改變",
+        "advice": "放下過去，面向未來，接受改變"
+      }
+    },
+    "description": "兩個孩子在花園中玩耍，互相贈送裝滿鮮花的杯子。",
+    "keywords": ["懷舊", "純真", "回憶", "童年", "單純", "快樂"]
+  },
+  {
+    "id": 42,
+    "name": "聖杯七",
+    "nameEn": "Seven of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "7",
+    "image": "cards/Cups07.jpg",
+    "url":"https://pyfate.github.io/waite/cups/07/",
+    "meanings": {
+      "upright": {
+        "general": "幻想，選擇，迷惑，誘惑，夢想",
+        "love": "感情幻想，多重選擇，不切實際",
+        "career": "職業選擇，不切實際，需要務實",
+        "money": "投資幻想，誘惑太多，需要謹慎",
+        "health": "不切實際，過度想像，需要實際",
+        "advice": "腳踏實地，明智選擇，避免幻想"
+      },
+      "reversed": {
+        "general": "面對現實，清醒，做出選擇，務實",
+        "love": "感情務實，明確選擇，實際行動",
+        "career": "實際規劃，明確方向，務實前進",
+        "money": "理性投資，謹慎選擇，實際規劃",
+        "health": "實際行動，務實態度，具體改善",
+        "advice": "務實行動，做出選擇，避免空想"
+      }
+    },
+    "description": "七個杯子漂浮在雲中，每個杯子裡都有不同的幻象，象徵著多重選擇和幻想。",
+    "keywords": ["幻想", "選擇", "迷惑", "誘惑", "夢想", "務實"]
+  },
+  {
+    "id": 43,
+    "name": "聖杯八",
+    "nameEn": "Eight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "8",
+    "image": "cards/Cups08.jpg",
+    "url":"https://pyfate.github.io/waite/cups/08/",
+    "meanings": {
+      "upright": {
+        "general": "放棄，離開，尋求，轉變，超越",
+        "love": "放棄感情，尋求新生，心靈成長",
+        "career": "轉換跑道，尋求突破，放棄舊有",
+        "money": "放棄投資，尋求新機，改變方向",
+        "health": "改變習慣，尋求新法，突破現狀",
+        "advice": "勇於放下，尋求成長，追求理想"
+      },
+      "reversed": {
+        "general": "猶豫不決，裹足不前，無法放下",
+        "love": "難以放手，徘徊不前，缺乏勇氣",
+        "career": "猶豫不決，無法突破，原地踏步",
+        "money": "投資猶豫，無法改變，需要決斷",
+        "health": "習慣難改，無法突破，需要勇氣",
+        "advice": "下定決心，勇於改變，果斷前進"
+      }
+    },
+    "description": "一個人在月光下離開八個杯子，象徵著放下過去，尋求更高層次的追求。",
+    "keywords": ["放棄", "離開", "尋求", "轉變", "超越", "成長"]
+  },
+  {
+    "id": 44,
+    "name": "聖杯九",
+    "nameEn": "Nine of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "9",
+    "image": "cards/Cups09.jpg",
+    "url":"https://pyfate.github.io/waite/cups/09/",
+    "meanings": {
+      "upright": {
+        "general": "滿足，願望實現，幸福，成功，滿意",
+        "love": "感情圓滿，心想事成，幸福美滿",
+        "career": "事業有成，目標達成，滿意現狀",
+        "money": "財運亨通，心願達成，滿意收穫",
+        "health": "身心健康，舒適愉快，保持良好",
+        "advice": "享受成果，感恩現狀，保持喜悅"
+      },
+      "reversed": {
+        "general": "不滿足，過度自滿，假滿足",
+        "love": "表面幸福，內心空虛，需要真誠",
+        "career": "表面成功，內心不滿，需要調整",
+        "money": "物質滿足，精神空虛，需要平衡",
+        "health": "表面健康，內在不適，需要關注",
+        "advice": "審視內心，追求真實，避免虛榮"
+      }
+    },
+    "description": "一個人滿意地坐在九個杯子前，象徵著願望實現和滿足的狀態。",
+    "keywords": ["滿足", "願望", "幸福", "成功", "滿意", "喜悅"]
+  },
+  {
+    "id": 45,
+    "name": "聖杯十",
+    "nameEn": "Ten of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "10",
+    "image": "cards/Cups10.jpg",
+    "url":"https://pyfate.github.io/waite/cups/10/",
+    "meanings": {
+      "upright": {
+        "general": "圓滿，家庭幸福，和諧，永恆的愛",
+        "love": "幸福美滿，家庭和睦，永恆的愛",
+        "career": "工作圓滿，團隊和諧，共同成功",
+        "money": "財富圓滿，家庭富足，共享成果",
+        "health": "身心和諧，家人關愛，幸福健康",
+        "advice": "珍惜圓滿，感恩幸福，維持和諧"
+      },
+      "reversed": {
+        "general": "家庭不和，失去和諧，價值觀衝突",
+        "love": "家庭失和，感情破裂，需要溝通",
+        "career": "團隊不合，目標分歧，需要協調",
+        "money": "財務糾紛，家庭負擔，要平衡",
+        "health": "家庭壓力，情緒困擾，需要調適",
+        "advice": "重建和諧，改善關係，尋求共識"
+      }
+    },
+    "description": "一家人在彩虹下歡欣鼓舞，象徵著完美的家庭幸福和永恆的愛。",
+    "keywords": ["圓滿", "幸福", "和諧", "家庭", "永恆", "愛"]
+  },
+  {
+    "id": 46,
+    "name": "聖杯侍者",
+    "nameEn": "Page of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "11",
+    "image": "cards/Cups11.jpg",
+    "url":"https://pyfate.github.io/waite/cups/11/",
+    "meanings": {
+      "upright": {
+        "general": "感性，創意，直覺，好消息，新機會",
+        "love": "感情萌芽，浪漫想像，純真之愛",
+        "career": "創意發想，新的機會，感性工作",
+        "money": "直覺判斷，新的機會，創意投資",
+        "health": "保持童心，心情愉悅，情緒療癒",
+        "advice": "保持童心，發揮創意，相信直覺"
+      },
+      "reversed": {
+        "general": "情緒化，幻想過度，缺乏行動",
+        "love": "感情不成熟，過度幻想，需要現實",
+        "career": "創意不足，缺乏實踐，需要行動",
+        "money": "判斷不準，投資不當，需要謹慎",
+        "health": "情緒不穩，過度敏感，需要平衡",
+        "advice": "腳踏實地，避免幻想，付諸行動"
+      }
+    },
+    "description": "年輕人手捧聖杯，杯中有一條魚，象徵著感性、創意和新的機會。",
+    "keywords": ["感性", "創意", "直覺", "機會", "童心", "純真"]
+  },
+  {
+    "id": 47,
+    "name": "聖杯騎士",
+    "nameEn": "Knight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "12",
+    "image": "cards/Cups12.jpg",
+    "url":"https://pyfate.github.io/waite/cups/12/",
+    "meanings": {
+      "upright": {
+        "general": "浪漫，追求，提議，邀請，感性",
+        "love": "浪漫追求，表達愛意，感情邀約",
+        "career": "創意提案，新的機會，感性表達",
+        "money": "投資機會，感性決策，新的提議",
+        "health": "保持愉悅，情緒穩定，心靈滿足",
+        "advice": "把握機會，表達感受，追求理想"
+      },
+      "reversed": {
+        "general": "情緒化，虛假承諾，欺騙，失望",
+        "love": "虛假感情，欺騙行為，感情受騙",
+        "career": "空洞承諾，缺乏實踐，需要務實",
+        "money": "投資失利，感性用錢，需要理性",
+        "health": "情緒低落，心靈空虛，需要關愛",
+        "advice": "保持理性，避免衝動，謹慎行事"
+      }
+    },
+    "description": "騎士騎著白馬，手持聖杯前進，象徵著浪漫的追求和感性的表達。",
+    "keywords": ["浪漫", "追求", "提議", "邀請", "感性", "表達"]
+  },
+  {
+    "id": 48,
+    "name": "聖杯皇后",
+    "nameEn": "Queen of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "13",
+    "image": "cards/Cups13.jpg",
+    "url":"https://pyfate.github.io/waite/cups/13/",
+    "meanings": {
+      "upright": {
+        "general": "慈愛，直覺，同理心，關懷，溫柔",
+        "love": "深情關愛，感性體貼，情感豐富",
+        "career": "關懷他人，善解人意，情感工作",
+        "money": "直覺判斷，感性理財，慈善捐助",
+        "health": "心靈關懷，情緒療癒，溫和調養",
+        "advice": "傾聽內心，關懷他人，保持溫柔"
+      },
+      "reversed": {
+        "general": "情緒化，過度敏感，缺乏界限",
+        "love": "感情依賴，過度付出，情緒勒索",
+        "career": "過度感性，缺乏界限，情緒困擾",
+        "money": "感性消費，過度付出，需要節制",
+        "health": "情緒困擾，過度憂慮，需要平衡",
+        "advice": "建立界限，調節情緒，保持理性"
+      }
+    },
+    "description": "皇后坐在海邊寶座上，手持聖杯，象徵著豐富的情感和直覺的智慧。",
+    "keywords": ["慈愛", "直覺", "同理", "關懷", "溫柔", "感性"]
+  },
+  {
+    "id": 49,
+    "name": "聖杯國王",
+    "nameEn": "King of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": "14",
+    "image": "cards/Cups14.jpg",
+    "url":"https://pyfate.github.io/waite/cups/14/",
+    "meanings": {
+      "upright": {
+        "general": "情感成熟，智慧，平衡，同理，穩重",
+        "love": "成熟感情，情感智慧，穩定關係",
+        "career": "情感領導，平衡處事，智慧決策",
+        "money": "穩健理財，平衡決策，智慧投資",
+        "health": "情緒穩定，心靈平衡，智慧養生",
+        "advice": "保持平衡，運用智慧，成熟處事"
+      },
+      "reversed": {
+        "general": "情感操控，情緒不穩，缺乏同理",
+        "love": "感情操控，情緒失控，關係不穩",
+        "career": "領導失當，情緒化決策，缺乏同理",
+        "money": "投資不穩，情緒化消費，決策失誤",
+        "health": "情緒失控，心理失衡，需要調適",
+        "advice": "控制情緒，培養同理，保持穩重"
+      }
+    },
+    "description": "國王坐在海上寶座，手持聖杯，象徵著成熟的情感智慧和穩重的特質。",
+    "keywords": ["成熟", "智慧", "平衡", "同理", "穩重", "導"]
+  },
+  {
+    "id": 50,
+    "name": "權杖王牌",
+    "nameEn": "Ace of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "1",
+    "image": "cards/Wands01.jpg",
+    "url":"https://pyfate.github.io/waite/wands/01/",
+    "meanings": {
+      "upright": {
+        "general": "新機會，創造力，熱情，行動，靈感",
+        "love": "新的激情，熱情開始，創意表達",
+        "career": "新的機會，創意發想，事業啟動",
+        "money": "投資機會，創業契機，新的發展",
+        "health": "充滿活力，新的方法，積極行動",
+        "advice": "把握機會，展現熱情，付諸行動"
+      },
+      "reversed": {
+        "general": "延遲，缺乏動力，創意受阻，猶豫",
+        "love": "熱情消退，行動遲緩，缺乏動力",
+        "career": "機會延遲，創意受阻，計畫延宕",
+        "money": "投資延遲，發展受阻，需要等待",
+        "health": "缺乏活力，行動遲緩，需要激勵",
+        "advice": "耐心等待，重拾熱情，準備行動"
+      }
+    },
+    "description": "一隻手從雲中伸出，握著一根綠意盎然的權杖，象徵著新的開始和創造力。",
+    "keywords": ["機會", "造", "熱情", "行動", "靈感", "開始"]
+  },
+  {
+    "id": 51,
+    "name": "權杖二",
+    "nameEn": "Two of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "2",
+    "image": "cards/Wands02.jpg",
+    "url":"https://pyfate.github.io/waite/wands/02/",
+    "meanings": {
+      "upright": {
+        "general": "規劃，選擇，遠見，掌控，等待",
+        "love": "感情規劃，未來選擇，等待時機",
+        "career": "事業規劃，發展方向，策略思考",
+        "money": "投資規劃，理財方向，等待時機",
+        "health": "健康規劃，預防保健，未雨綢繆",
+        "advice": "審慎規劃，放眼未來，等待時機"
+      },
+      "reversed": {
+        "general": "缺乏規劃，豫不決，失方向",
+        "love": "感情猶豫，缺乏規劃，無法決定",
+        "career": "方向不明，計畫混亂，決策困難",
+        "money": "投資猶豫，方向不明，規劃不當",
+        "health": "健康忽視，缺乏規劃，需要重視",
+        "advice": "明確方向，果斷決策，制定計畫"
+      }
+    },
+    "description": "一個人手持權杖站在城堡上眺望遠方，象徵著規劃和遠見。",
+    "keywords": ["規劃", "選擇", "遠見", "掌控", "等待", "策略"]
+  },
+  {
+    "id": 52,
+    "name": "權杖三",
+    "nameEn": "Three of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "3",
+    "image": "cards/Wands03.jpg",
+    "url":"https://pyfate.github.io/waite/wands/03/",
+    "meanings": {
+      "upright": {
+        "general": "擴展，遠見，領導，成長，機會",
+        "love": "感情發展，關係成長，未來可期",
+        "career": "事業擴展，領導才能，發展機會",
+        "money": "投資擴展，財務成長，收益可期",
+        "health": "健康改善，視野開闊，正向發展",
+        "advice": "把握機會，開拓視野，勇於成長"
+      },
+      "reversed": {
+        "general": "延遲，阻礙，缺乏遠見，停滯",
+        "love": "感情停滯，發展受阻，需要耐心",
+        "career": "發展受阻，機會延遲，計畫延宕",
+        "money": "投資停滯，收益延遲，需要等待",
+        "health": "復原緩慢，進展受阻，需要耐心",
+        "advice": "保持耐心，調整方向，等待時機"
+      }
+    },
+    "description": "一個人站在高處眺望遠方，三根權杖豎立在身邊，象徵著擴展和遠見。",
+    "keywords": ["擴展", "遠見", "領導", "成長", "機會", "發展"]
+  },
+  {
+    "id": 53,
+    "name": "權杖四",
+    "nameEn": "Four of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "4",
+    "image": "cards/Wands04.jpg",
+    "url":"https://pyfate.github.io/waite/wands/04/",
+    "meanings": {
+      "upright": {
+        "general": "慶祝，和諧，穩定，家庭，成就",
+        "love": "感情穩定，婚姻喜事，家庭和諧",
+        "career": "事業穩定，團隊和諧，階段成就",
+        "money": "財務穩定，收入固定，家庭富足",
+        "health": "身心穩定，家人關愛，和諧康泰",
+        "advice": "享受成果，保持和諧，珍惜當下"
+      },
+      "reversed": {
+        "general": "不穩定，過渡期，家庭問題",
+        "love": "關係不穩，家庭矛盾，需要溝通",
+        "career": "工作不穩，團隊失和，需要調整",
+        "money": "收入不穩，家庭負擔，需要規劃",
+        "health": "情緒不穩，家庭壓力，需要調適",
+        "advice": "面對問題，尋求穩定，重建和諧"
+      }
+    },
+    "description": "四根權杖前有人們在慶祝，象徵著穩定和諧的成就。",
+    "keywords": ["慶祝", "和諧", "穩定", "家庭", "成就", "喜悅"]
+  },
+  {
+    "id": 54,
+    "name": "權杖五",
+    "nameEn": "Five of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "5",
+    "image": "cards/Wands05.jpg",
+    "url":"https://pyfate.github.io/waite/wands/05/",
+    "meanings": {
+      "upright": {
+        "general": "競爭，衝突，挑戰，對抗，混亂",
+        "love": "感情競爭，關係衝突，意見不合",
+        "career": "職場競爭，團隊衝突，意見分歧",
+        "money": "競爭激烈，利益衝突，市場混亂",
+        "health": "身心緊張，壓力衝突，需要調適",
+        "advice": "面對挑戰，化解衝突，保持冷靜"
+      },
+      "reversed": {
+        "general": "化解衝突，合作，協調，和解",
+        "love": "化解矛盾，重修舊好，達成共識",
+        "career": "團隊合作，化解衝突，意見統一",
+        "money": "市場穩定，利益共享，合作共贏",
+        "health": "壓力舒緩，調適良好，恢復平靜",
+        "advice": "尋求合作，化解矛盾，達成共識"
+      }
+    },
+    "description": "五個人各持權杖互相對抗，象徵著競爭和衝突的狀態。",
+    "keywords": ["競爭", "衝突", "挑戰", "對抗", "混亂", "合作"]
+  },
+  {
+    "id": 55,
+    "name": "權杖六",
+    "nameEn": "Six of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "6",
+    "image": "cards/Wands06.jpg",
+    "url":"https://pyfate.github.io/waite/wands/06/",
+    "meanings": {
+      "upright": {
+        "general": "勝利，成功，認可，自信，榮耀",
+        "love": "感情得意，備受肯定，關係成功",
+        "career": "事業有成，獲認可，成就榮耀",
+        "money": "投資成功，收益豐厚，成果顯著",
+        "health": "康復順利，充滿信心，狀態良好",
+        "advice": "享受成功，保持自信，謙虛前進"
+      },
+      "reversed": {
+        "general": "驕傲，自負，失去支持，挫折",
+        "love": "過於自負，失去支持，關係倒退",
+        "career": "功高震主，失去認可，聲望下降",
+        "money": "投資失利，收益減少，信心動搖",
+        "health": "過度自信，忽視警訊，需要謹慎",
+        "advice": "保持謙遜，避免驕傲，重獲支持"
+      }
+    },
+    "description": "騎士騎著白馬凱旋而歸，手持勝利的權杖，象徵著成功和榮耀。",
+    "keywords": ["勝利", "成功", "認可", "自信", "榮耀", "謙遜"]
+  },
+  {
+    "id": 56,
+    "name": "權杖七",
+    "nameEn": "Seven of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "7",
+    "image": "cards/Wands07.jpg",
+    "url":"https://pyfate.github.io/waite/wands/07/",
+    "meanings": {
+      "upright": {
+        "general": "防守，堅持，挑戰，勇氣，決心",
+        "love": "捍衛感情，堅持立場，克服挑戰",
+        "career": "堅守崗位，面對挑戰，保持立場",
+        "money": "謹慎防守，堅持原則，抵禦風險",
+        "health": "積極抵抗，堅持治療，保持決心",
+        "advice": "堅持立場，勇於面對，保持決心"
+      },
+      "reversed": {
+        "general": "退讓，放棄，壓力過大，猶豫",
+        "love": "無法堅持，放棄感情，退縮逃避",
+        "career": "立場動搖，壓力過大，選擇退讓",
+        "money": "防守失敗，承受損失，信心動搖",
+        "health": "抵抗力弱，治療受阻，需要調整",
+        "advice": "適時退讓，調整策略，重整旗鼓"
+      }
+    },
+    "description": "一個人站在高處，用權杖抵禦下方的攻擊，象徵著堅持和防守。",
+    "keywords": ["防守", "堅持", "挑戰", "勇氣", "決心", "抵抗"]
+  },
+  {
+    "id": 57,
+    "name": "權杖八",
+    "nameEn": "Eight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "8",
+    "image": "cards/Wands08.jpg",
+    "url":"https://pyfate.github.io/waite/wands/08/",
+    "meanings": {
+      "upright": {
+        "general": "快速行動，進展，消息，變化，行動",
+        "love": "感情進展，快速發展，好消息",
+        "career": "事業進展，快速行動，突破進展",
+        "money": "快速收益，行動機會，市場變化",
+        "health": "快速康復，積極行動，改善明顯",
+        "advice": "把握時機，積極行動，順勢而為"
+      },
+      "reversed": {
+        "general": "延遲，阻礙，混亂，倉促",
+        "love": "感情延宕，發展受阻，需要耐心",
+        "career": "計畫延誤，行動受阻，需要調整",
+        "money": "收益延遲，行動受阻，需要等待",
+        "health": "康復延緩，行動受限，需要耐心",
+        "advice": "放慢腳步，避免倉促，耐心等"
+      }
+    },
+    "description": "八根權杖在空中飛行，象徵著快速的行動和進展。",
+    "keywords": ["快速", "進展", "消息", "變化", "行動", "機會"]
+  },
+  {
+    "id": 58,
+    "name": "權杖九",
+    "nameEn": "Nine of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "9",
+    "image": "cards/Wands09.jpg",
+    "url":"https://pyfate.github.io/waite/wands/09/",
+    "meanings": {
+      "upright": {
+        "general": "堅持，防禦，毅力，警戒，準備",
+        "love": "守護感情，保持警惕，堅持到底",
+        "career": "堅守崗位，保持警覺，持續努力",
+        "money": "謹慎防守，保持警惕，堅持原則",
+        "health": "持續調養，保持警覺，堅持治療",
+        "advice": "保持警惕，堅持到底，做好準備"
+      },
+      "reversed": {
+        "general": "疲憊，放棄，妥協，過度防禦",
+        "love": "感情疲憊，過度防備，需要放鬆",
+        "career": "工作倦怠，過度緊張，需要調整",
+        "money": "防守過度，精神緊張，需要放鬆",
+        "health": "過度疲憊，精神緊張，需要休息",
+        "advice": "適度放鬆，避免過度，調整心態"
+      }
+    },
+    "description": "一個受傷的戰士靠著權杖，背後有八根權杖，象徵著堅持和防禦。",
+    "keywords": ["堅持", "防禦", "毅力", "警戒", "準備", "持續"]
+  },
+  {
+    "id": 59,
+    "name": "權杖十",
+    "nameEn": "Ten of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "10",
+    "image": "cards/Wands10.jpg",
+    "url":"https://pyfate.github.io/waite/wands/10/",
+    "meanings": {
+      "upright": {
+        "general": "負擔，責任，壓力，努力，堅持",
+        "love": "感情負擔，責任重大，壓力過重",
+        "career": "工作壓力，責任過重，負擔沉重",
+        "money": "財務負擔，責任重大，壓力過大",
+        "health": "身心疲憊，壓力過大，需要放鬆",
+        "advice": "適度放下，分擔壓力，調整步伐"
+      },
+      "reversed": {
+        "general": "放下負擔，釋放壓力，委託他人",
+        "love": "放下包袱，減輕負擔，分擔責任",
+        "career": "減輕壓力，適度放權，尋求協助",
+        "money": "減輕負擔，合理分配，尋求支援",
+        "health": "壓力釋放，負擔減輕，逐漸恢復",
+        "advice": "學會放手，尋求協助，減輕負擔"
+      }
+    },
+    "description": "一個人背負著十根權杖艱難前行，象徵著沉重的負擔和責任。",
+    "keywords": ["負擔", "責任", "壓力", "努力", "堅持", "放下"]
+  },
+  {
+    "id": 60,
+    "name": "權杖侍者",
+    "nameEn": "Page of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "11",
+    "image": "cards/Wands11.jpg",
+    "url":"https://pyfate.github.io/waite/wands/11/",
+    "meanings": {
+      "upright": {
+        "general": "冒險，熱情，探索，好消息，新機會",
+        "love": "熱情表白，新的追求，冒險嘗試",
+        "career": "新的機會，熱情探索，學習成長",
+        "money": "投資機會，冒險嘗試，新的發展",
+        "health": "充滿活力，積極嘗試，勇於改變",
+        "advice": "保持熱情，勇於嘗試，把握機會"
+      },
+      "reversed": {
+        "general": "衝動，不穩定，缺乏耐心，浮躁",
+        "love": "感情衝動，缺乏耐心，行事魯莽",
+        "career": "行事草率，缺乏規劃，不夠成熟",
+        "money": "投資衝動，欠缺考慮，需要謹慎",
+        "health": "過度勞累，欠缺節制，需要調整",
+        "advice": "控制衝動，培養耐心，謹慎行事"
+      }
+    },
+    "description": "年輕人手持權杖，充滿活力和熱情，象徵著冒險精神和新的機會。",
+    "keywords": ["冒險", "熱情", "探索", "機會", "活力", "學習"]
+  },
+  {
+    "id": 61,
+    "name": "權杖騎士",
+    "nameEn": "Knight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "12",
+    "image": "cards/Wands12.jpg",
+    "url":"https://pyfate.github.io/waite/wands/12/",
+    "meanings": {
+      "upright": {
+        "general": "行動力，冒險，熱情，進取，變化",
+        "love": "熱情追求，積極行動，大膽表白",
+        "career": "事業進取，勇於冒險，積極行動",
+        "money": "大膽投資，積極進取，快速行動",
+        "health": "積極治療，行動力強，恢復迅速",
+        "advice": "積極行動，把握機會，勇於冒險"
+      },
+      "reversed": {
+        "general": "衝動，魯莽，不穩定，躁進",
+        "love": "感情衝動，行事魯莽，缺乏耐心",
+        "career": "行事躁進，欠缺規劃，容易衝突",
+        "money": "投資魯莽，風險過高，需要謹慎",
+        "health": "過度勞累，欠缺休息，需要節制",
+        "advice": "避免衝動，謹慎行事，適度節制"
+      }
+    },
+    "description": "騎士騎著紅馬奔馳，手持權杖，象徵著積極的行動力和冒險精神。",
+    "keywords": ["行動", "冒險", "熱情", "進取", "變化", "勇氣"]
+  },
+  {
+    "id": 62,
+    "name": "權杖皇后",
+    "nameEn": "Queen of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "13",
+    "image": "cards/Wands13.jpg",
+    "url":"https://pyfate.github.io/waite/wands/13/",
+    "meanings": {
+      "upright": {
+        "general": "熱情，自信，魅力，行動力，領導",
+        "love": "充滿魅力，熱情活潑，吸引力強",
+        "career": "領導才能，充滿魅力，積極進取",
+        "money": "理財有道，行動果斷，充滿信心",
+        "health": "充滿活力，樂觀積極，恢復良好",
+        "advice": "展現魅力，保持自信，積極行動"
+      },
+      "reversed": {
+        "general": "專橫，自私，過度自信，情緒化",
+        "love": "過度自我，缺乏體貼，情緒不穩",
+        "career": "獨斷專行，過於強勢，缺乏合作",
+        "money": "過度自信，決策魯莽，需要謹慎",
+        "health": "情緒不穩，過度消耗，需要節制",
+        "advice": "避免專橫，保持謙遜，關懷他人"
+      }
+    },
+    "description": "皇后手持權杖，身邊有黑貓，象徵著充滿魅力和行動力的領導者。",
+    "keywords": ["熱情", "自信", "魅力", "行動", "領導", "活力"]
+  },
+  {
+    "id": 63,
+    "name": "權杖國王",
+    "nameEn": "King of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": "14",
+    "image": "cards/Wands14.jpg",
+    "url":"https://pyfate.github.io/waite/wands/14/",
+    "meanings": {
+      "upright": {
+        "general": "領導力，創造力，魅力，成熟，權威",
+        "love": "成熟魅力，熱情專一，負責任的愛",
+        "career": "領導才能，創意決策，事業有成",
+        "money": "財務領導，創意投資，穩健發展",
+        "health": "充滿活力，樂觀進取，保持健康",
+        "advice": "展現領導，發揮創意，承擔責任"
+      },
+      "reversed": {
+        "general": "專制，傲慢，濫用權力，不公",
+        "love": "過度控制，缺乏體諒，感情專制",
+        "career": "獨斷專行，過於強勢，缺乏合作",
+        "money": "決策專制，風險高，需要謹慎",
+        "health": "過度自信，忽視警訊，需要關注",
+        "advice": "避免專制，傾聽他人，謙虛行事"
+      }
+    },
+    "description": "國王坐在寶座上，手持權杖，象徵著成熟的領導力和創造力。",
+    "keywords": ["領導", "創造", "魅力", "成熟", "權威", "責任"]
+  },
+  {
+    "id": 64,
+    "name": "錢幣王牌",
+    "nameEn": "Ace of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "1",
+    "image": "cards/Pentacles01.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/01/",
+    "meanings": {
+      "upright": {
+        "general": "新的機會，物質收穫，實際成果，繁榮",
+        "love": "穩定關係，實質發展，物質基礎",
+        "career": "新工作，實際機會，物質報酬",
+        "money": "新投資，實質收入，財務機會",
+        "health": "健康改善，實質效果，體能增強",
+        "advice": "把握機會，務實行動，追求成果"
+      },
+      "reversed": {
+        "general": "錯失機會，物質損失，計畫延誤",
+        "love": "物質糾紛，缺乏實質，基礎不穩",
+        "career": "機會流失，報酬延遲，計畫受阻",
+        "money": "投資失利，收入減少，財務困難",
+        "health": "效果不彰，體力下降，需要調整",
+        "advice": "重新規劃，務實考量，把握機會"
+      }
+    },
+    "description": "一隻手從雲中伸出，捧著一枚金幣，象徵著物質和實際的新機會。",
+    "keywords": ["機會", "物質", "實際", "繁榮", "收穫", "開始"]
+  },
+  {
+    "id": 65,
+    "name": "錢幣二",
+    "nameEn": "Two of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "2",
+    "image": "cards/Pentacles02.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/02/",
+    "meanings": {
+      "upright": {
+        "general": "平衡，適應，變通，多重任務，靈活",
+        "love": "感情平衡，靈活應對，調適關係",
+        "career": "工作平衡，多重任務，靈活處理",
+        "money": "財務平衡，資金調度，靈活理財",
+        "health": "生活平衡，調適身心，靈活運動",
+        "advice": "保持平衡，靈活應變，適時調整"
+      },
+      "reversed": {
+        "general": "失衡，混亂，無法應付，壓力過大",
+        "love": "感情失衡，難以兼顧，壓力過大",
+        "career": "工作混亂，無法兼顧，負荷過重",
+        "money": "財務失衡，入不敷出，難以維持",
+        "health": "作息混亂，身心失調，需要調整",
+        "advice": "重建平衡，減輕負擔，適度放下"
+      }
+    },
+    "description": "一個人靈活地玩耍著兩枚錢幣，象徵著平衡和適應力。",
+    "keywords": ["平衡", "適應", "變通", "靈活", "多重", "調整"]
+  },
+  {
+    "id": 66,
+    "name": "錢幣三",
+    "nameEn": "Three of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "3",
+    "image": "cards/Pentacles03.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/03/",
+    "meanings": {
+      "upright": {
+        "general": "合作，技能，專業，成就，認可",
+        "love": "共同努力，互相配合，關係進展",
+        "career": "團隊合作，專業表現，獲得肯定",
+        "money": "共同投資，專業理財，穩定收益",
+        "health": "專業治療，團隊照護，逐漸改善",
+        "advice": "發揮專長，團隊合作，追求卓越"
+      },
+      "reversed": {
+        "general": "缺乏合作，技能不足，工作粗糙",
+        "love": "配合不當，缺乏默契，關係受阻",
+        "career": "團隊失和，能力不足，表現不佳",
+        "money": "投資失調，專業不足，收益欠佳",
+        "health": "治療不當，照護不足，效果欠佳",
+        "advice": "提升技能，加強合作，改善品質"
+      }
+    },
+    "description": "工匠和建築師在討論工作計畫，象徵著專業合作和技能的展現。",
+    "keywords": ["合作", "技能", "專業", "成就", "認可", "品質"]
+  },
+  {
+    "id": 67,
+    "name": "錢幣四",
+    "nameEn": "Four of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "4",
+    "image": "cards/Pentacles04.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/04/",
+    "meanings": {
+      "upright": {
+        "general": "保守，穩固，佔有，安全感，控制",
+        "love": "感情保守，過度佔有，缺乏分享",
+        "career": "固守成果，穩定發展，不求改變",
+        "money": "守財奴，過度節儉，安全至上",
+        "health": "保守治療，固守習慣，不願改變",
+        "advice": "適度開放，學會分享，保持彈性"
+      },
+      "reversed": {
+        "general": "放手，解除執著，重獲自由，開放",
+        "love": "放開心胸，減少控制，學會信任",
+        "career": "嘗試改變，開放創新，突破現狀",
+        "money": "適度花費，放寬心胸，合理使用",
+        "health": "嘗試新法，改變習慣，開放心態",
+        "advice": "放下執著，開放心胸，接受改變"
+      }
+    },
+    "description": "一個人緊抱著錢幣，象徵著對物質的執著和保守的態度。",
+    "keywords": ["保守", "穩固", "佔有", "安全", "控制", "執著"]
+  },
+  {
+    "id": 68,
+    "name": "錢幣五",
+    "nameEn": "Five of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "5",
+    "image": "cards/Pentacles05.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/05/",
+    "meanings": {
+      "upright": {
+        "general": "困難，貧困，損失，孤立，健康問題",
+        "love": "感情困境，物質缺乏，心靈空虛",
+        "career": "事業低潮，財務困難，缺乏支持",
+        "money": "財務危機，入不敷出，經濟困境",
+        "health": "身體不適，精神低落，需要關懷",
+        "advice": "尋求幫助，保持希望，度過難關"
+      },
+      "reversed": {
+        "general": "復原，改善，重建，接受幫助",
+        "love": "關係改善，重獲支持，走出困境",
+        "career": "逐漸復甦，獲得支持，情況好轉",
+        "money": "財務改善，獲得援助，度過危機",
+        "health": "逐漸康復，接受幫助，改善狀況",
+        "advice": "接受援助，保持信心，重建生活"
+      }
+    },
+    "description": "兩個貧困的人在風雪中經過教堂，象徵著物質和精神的匱乏。",
+    "keywords": ["困難", "貧困", "損失", "孤立", "健康", "希望"]
+  },
+  {
+    "id": 69,
+    "name": "錢幣六",
+    "nameEn": "Six of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "6",
+    "image": "cards/Pentacles06.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/06/",
+    "meanings": {
+      "upright": {
+        "general": "慷慨，分享，施予，公平，互助",
+        "love": "慷慨付出，互相幫助，平等關係",
+        "career": "得到提攜，互助合作，公平對待",
+        "money": "慷慨解囊，互惠互利，公平分配",
+        "health": "獲得照顧，互相關懷，逐漸康復",
+        "advice": "樂於助人，保持公平，互相扶持"
+      },
+      "reversed": {
+        "general": "自私，不公平，虛假慷慨，濫用",
+        "love": "付出不均，關係失衡，利用關係",
+        "career": "不公平待遇，虛假承諾，濫用職權",
+        "money": "借貸糾紛，財務失衡，不當使用",
+        "health": "照顧不當，關懷不足，需要平衡",
+        "advice": "維持公平，真誠付出，避免濫用"
+      }
+    },
+    "description": "富人施捨錢幣給窮人，手持天秤，象徵著慷慨和公平的分配。",
+    "keywords": ["慷慨", "分享", "施予", "公平", "互助", "平衡"]
+  },
+  {
+    "id": 70,
+    "name": "錢幣七",
+    "nameEn": "Seven of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "7",
+    "image": "cards/Pentacles07.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/07/",
+    "meanings": {
+      "upright": {
+        "general": "評估，等待，投資，耐心，收穫",
+        "love": "感情評估，耐心等待，關係發展",
+        "career": "事業評估，等待成果，長期投資",
+        "money": "投資評估，耐心等待，逐漸收穫",
+        "health": "健康評估，耐心調養，逐步改善",
+        "advice": "保持耐心，評估現況，等待收穫"
+      },
+      "reversed": {
+        "general": "焦躁，投資失敗，缺乏耐心",
+        "love": "感情焦躁，缺乏耐心，過於急進",
+        "career": "成果不佳，投資失利，計畫延宕",
+        "money": "投資失敗，收益不佳，需要調整",
+        "health": "效果不彰，欠缺耐心，需要堅持",
+        "advice": "調整策略，培養耐心，重新規劃"
+      }
+    },
+    "description": "一個人在觀察他種植的果樹，象徵著耐心等待和評估成果。",
+    "keywords": ["評估", "等待", "投資", "耐心", "收穫", "成長"]
+  },
+  {
+    "id": 71,
+    "name": "錢幣八",
+    "nameEn": "Eight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "8",
+    "image": "cards/Pentacles08.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/08/",
+    "meanings": {
+      "upright": {
+        "general": "專注，技能，學習，進步，勤奮",
+        "love": "用心經營，不斷學習，關係進步",
+        "career": "專業提升，技能精進，勤奮工作",
+        "money": "穩健理財，學習投資，技能提升",
+        "health": "專注保健，持續改善，勤於運動",
+        "advice": "專注學習，精進技能，保持勤奮"
+      },
+      "reversed": {
+        "general": "工作粗糙，缺乏專注，懶散",
+        "love": "關係怠慢，缺乏用心，敷衍了事",
+        "career": "工作馬虎，技能不足，需要努力",
+        "money": "理財不當，缺乏學習，需要專注",
+        "health": "保健不足，缺乏毅力，需要堅持",
+        "advice": "提高專注，加強學習，避免懶散"
+      }
+    },
+    "description": "工匠專注地製作錢幣，象徵著專業技能的精進和勤奮學習。",
+    "keywords": ["專注", "技能", "學習", "進步", "勤奮", "精進"]
+  },
+  {
+    "id": 72,
+    "name": "錢幣九",
+    "nameEn": "Nine of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "9",
+    "image": "cards/Pentacles09.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/09/",
+    "meanings": {
+      "upright": {
+        "general": "獨立，自足，成就，享受，紀律",
+        "love": "獨立自主，享受生活，不依賴他人",
+        "career": "事業有成，獨立發展，享受成果",
+        "money": "財務自主，穩定收入，享受生活",
+        "health": "自我保健，規律生活，保持健康",
+        "advice": "保持獨立，享受成果，維持紀律"
+      },
+      "reversed": {
+        "general": "虛榮，依賴，過度放縱，缺乏紀律",
+        "love": "過度依賴，缺乏自主，虛榮心強",
+        "career": "缺乏獨立，依賴他人，紀律鬆散",
+        "money": "揮霍無度，依賴他人，缺乏節制",
+        "health": "生活放縱，缺乏紀律，需要節制",
+        "advice": "培養獨立，建立紀律，避免依賴"
+      }
+    },
+    "description": "優雅的女子獨自在花園中漫步，象徵著獨立自主和物質上的成就。",
+    "keywords": ["獨立", "自足", "成就", "享受", "紀律", "優雅"]
+  },
+  {
+    "id": 73,
+    "name": "錢幣十",
+    "nameEn": "Ten of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "10",
+    "image": "cards/Pentacles10.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/10/",
+    "meanings": {
+      "upright": {
+        "general": "財富，傳承，家族，穩定，圓滿",
+        "love": "家庭美滿，世代傳承，穩定關係",
+        "career": "事業有成，基業長青，穩定發展",
+        "money": "財富累積，家族產業，穩定收入",
+        "health": "家族健康，養生保健，世代平安",
+        "advice": "累積財富，建立傳承，維持穩定"
+      },
+      "reversed": {
+        "general": "財務損失，家族糾紛，不穩定",
+        "love": "家庭問題，傳統束縛，關係不穩",
+        "career": "基業動搖，發展受阻，需要調整",
+        "money": "財富流失，家族糾紛，收入不穩",
+        "health": "家族病史，健康隱憂，需要預防",
+        "advice": "化解糾紛，重建基礎，追求穩定"
+      }
+    },
+    "description": "一個富裕的家族在豪宅前，象徵著物質的豐足和家族的傳承。",
+    "keywords": ["財富", "傳承", "家族", "穩定", "圓滿", "基業"]
+  },
+  {
+    "id": 74,
+    "name": "錢幣侍者",
+    "nameEn": "Page of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "11",
+    "image": "cards/Pentacles11.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/11/",
+    "meanings": {
+      "upright": {
+        "general": "學習，實踐，機會，務實，新開始",
+        "love": "認真學習，務實態度，穩定發展",
+        "career": "學習機會，實習工作，踏實學習",
+        "money": "理財學習，務實投資，穩健起步",
+        "health": "養生學習，實踐保健，穩定改善",
+        "advice": "努力學習，腳踏實地，把握機會"
+      },
+      "reversed": {
+        "general": "懶散，不切實際，缺乏耐心",
+        "love": "不切實際，缺乏耐心，態度懶散",
+        "career": "學習不足，態度散漫，缺乏實踐",
+        "money": "揮霍無度，不切實際，需要務實",
+        "health": "不重視健康，生活散漫，需要規律",
+        "advice": "端正態度，實際行動，培養耐心"
+      }
+    },
+    "description": "年輕人專注地觀察手中的錢幣，象徵著學習和務實的態度。",
+    "keywords": ["學習", "實踐", "機會", "務實", "新開始", "踏實"]
+  },
+  {
+    "id": 75,
+    "name": "錢幣騎士",
+    "nameEn": "Knight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "12",
+    "image": "cards/Pentacles12.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/12/",
+    "meanings": {
+      "upright": {
+        "general": "責任，可靠，勤奮，耐心，穩重",
+        "love": "穩定發展，負責任，可靠關係",
+        "career": "勤奮工作，負責任，穩定發展",
+        "money": "穩健投資，負責任，務實理財",
+        "health": "規律保健，持之以恆，穩定改善",
+        "advice": "盡責行事，保持耐心，穩健前進"
+      },
+      "reversed": {
+        "general": "停滯，固執，工作狂，缺乏變通",
+        "love": "感情停滯，過於固執，缺乏變化",
+        "career": "工作倦怠，固守成規，需要突破",
+        "money": "投資停滯，過於保守，需要調整",
+        "health": "生活單調，固守習慣，需要改變",
+        "advice": "適度調整，保持彈性，突破現狀"
+      }
+    },
+    "description": "騎士騎在黑馬上，手持錢幣，象徵著穩重和負責任的態度。",
+    "keywords": ["責任", "可靠", "勤奮", "耐心", "穩重", "務實"]
+  },
+  {
+    "id": 76,
+    "name": "錢幣皇后",
+    "nameEn": "Queen of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "13",
+    "image": "cards/Pentacles13.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/13/",
+    "meanings": {
+      "upright": {
+        "general": "豐盛，實用，安全感，照顧，富足",
+        "love": "關係穩定，實質照顧，豐富感情",
+        "career": "事業有成，實務能力，穩定發展",
+        "money": "財務穩健，理財有道，富足生活",
+        "health": "健康穩定，照顧周到，保健得宜",
+        "advice": "創造豐盛，務實行動，照顧他人"
+      },
+      "reversed": {
+        "general": "物質主義，過度保護，缺乏安全感",
+        "love": "過度依賴，物質主義，缺乏安全感",
+        "career": "能力不足，過度操心，缺乏效率",
+        "money": "揮霍無度，理財不當，安全感缺乏",
+        "health": "過度擔憂，保護過度，需要放鬆",
+        "advice": "平衡物質，建立安全感，適度關懷"
+      }
+    },
+    "description": "皇后坐在花園中，手持錢幣，象徵著物質的豐盛和照顧他人的能力。",
+    "keywords": ["豐盛", "實用", "安全", "照顧", "富足", "穩定"]
+  },
+  {
+    "id": 77,
+    "name": "錢幣國王",
+    "nameEn": "King of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": "14",
+    "image": "cards/Pentacles14.jpg",
+    "url":"https://pyfate.github.io/waite/pentacles/14/",
+    "meanings": {
+      "upright": {
+        "general": "富有，成功，實力，穩重，可靠",
+        "love": "穩定關係，物質保障，可靠伴侶",
+        "career": "事業有成，實力展現，穩健發展",
+        "money": "財富累積，投資有道，穩健理財",
+        "health": "健康穩定，養生有道，保健得宜",
+        "advice": "展現實力，穩健發展，值得信賴"
+      },
+      "reversed": {
+        "general": "貪婪，物質主義，濫用權力",
+        "love": "物質主義，權力控制，缺乏真情",
+        "career": "能力不足，濫用職權，決策失誤",
+        "money": "貪得無厭，投機取巧，財務危機",
+        "health": "放縱過度，忽視健康，需要節制",
+        "advice": "避免貪婪，正當行事，保持節制"
+      }
+    },
+    "description": "國王坐在寶座上，周圍環繞著豐富的物質，象徵著成功和穩重的特質。",
+    "keywords": ["富有", "成功", "實力", "穩重", "可靠", "豐盛"]
+  }
+]

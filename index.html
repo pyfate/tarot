@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>塔羅牌占卜練習</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>塔羅牌占卜練習</h1>
+        
+        <!-- 使用說明按鈕 -->
+        <button id="helpBtn" class="help-btn">使用說明</button>
+
+        <!-- 使用說明對話框 -->
+        <div id="helpModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>使用說明</h2>
+                <p>1. 請輸入欲諮詢問題！</p>
+                <p>2. 選擇問題類型及牌陣，再點擊抽牌！</p>
+                <p>3. 抽牌後，請輸入您個人的解讀！</p>
+                <p>4. 點擊儲存紀錄，儲存您的解讀！</p>
+                <p>5. 在歷史紀錄區可以查看您儲存的所有紀錄！</p>
+                <p>6. 或可點擊下載紀錄，將紀錄存成文字檔，做為日後的對照及參考！</p>
+            </div>
+        </div>
+
+        <style>
+            .help-btn {
+                /* position: fixed;
+                bottom: 20px;
+                right: 20px;
+                z-index: 100; */
+                background-color: #4CAF50;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                padding: 10px 20px;
+                cursor: pointer;
+                margin-bottom: 10px;
+            }
+
+            .modal {
+                display: none;
+                position: fixed;
+                z-index: 1000;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0,0,0,0.5);
+            }
+
+            .modal-content {
+                background-color: #fefefe;
+                margin: 15% auto;
+                padding: 20px;
+                border: 1px solid #888;
+                border-radius: 8px;
+                width: 80%;
+                max-width: 600px;
+            }
+
+            .close {
+                color: #aaa;
+                float: right;
+                font-size: 28px;
+                font-weight: bold;
+                cursor: pointer;
+            }
+
+            .close:hover,
+            .close:focus {
+                color: black;
+                text-decoration: none;
+                cursor: pointer;
+            }
+        </style>
+
+        <script>
+            // 獲取元素
+            const helpBtn = document.getElementById("helpBtn");
+            const helpModal = document.getElementById("helpModal");
+            const closeBtn = document.querySelector(".close");
+
+            // 點擊按鈕打開對話框
+            helpBtn.onclick = function() {
+                helpModal.style.display = "block";
+            }
+
+            // 點擊 X 關閉對話框
+            closeBtn.onclick = function() {
+                helpModal.style.display = "none";
+            }
+
+            // 點擊對話框外部關閉對話框
+            window.onclick = function(event) {
+                if (event.target == helpModal) {
+                    helpModal.style.display = "none";
+                }
+            }
+        </script>
+       
+        
+        <!-- 問題輸入區 -->
+        <div class="question-section">
+            <textarea id="questionInput" placeholder="請輸入您想諮詢的問題..." rows="3"></textarea>
+            
+            <div class="control-row">
+                <select id="questionType">
+                    <option value="">請選擇問題類型</option>
+                    <option value="general">一般問題</option>
+                    <option value="love">愛情</option>
+                    <option value="career">工作</option>
+                    <option value="money">財運</option>
+                    <option value="health">健康</option>
+                </select>
+
+                <select id="spreadType">
+                    <option value="">請選擇牌陣</option>
+                    <option value="single">單張牌</option>
+                    <option value="timeline">時間流(三張牌)</option>
+                    <option value="triangle">三角牌陣</option>
+                    <option value="choice">二選一牌陣</option>
+                </select>
+
+                <button id="drawCards" disabled>抽牌</button>
+            </div>
+        </div>
+
+        <!-- 牌陣顯示區 -->
+        <div id="spreadDisplay" class="spread-display"></div>
+
+        <!-- 解讀結果區 -->
+        <div id="readingResult" class="reading-result"></div>
+
+        <!-- 個人解讀區 -->
+        <div class="interpretation-section">
+            <textarea id="personalInterpretation" placeholder="請記錄您的個人解讀..." rows="4"></textarea>
+            <div class="action-buttons">
+                <button id="saveReading">儲存紀錄</button>
+                <button id="downloadReading">下載紀錄</button>
+            </div>
+        </div>
+
+        <!-- 歷史紀錄區 -->
+        <div class="history-section">
+            <h2>歷史紀錄</h2>
+            <div id="historyList" class="history-list"></div>
+        </div>
+    </div>
+
+    <script src="tarot.js"></script>
+</body>
+</html> 
