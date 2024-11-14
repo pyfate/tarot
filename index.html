@@ -11,7 +11,10 @@
         <h1>塔羅牌占卜練習</h1>
         
         <!-- 使用說明按鈕 -->
-        <button id="helpBtn" class="help-btn">使用說明</button>
+        <div class="button-group">
+            <button id="helpBtn" class="help-btn">使用說明</button>
+            <button id="resetBtn" class="reset-btn">重置</button>
+        </div>
 
         <!-- 使用說明對話框 -->
         <div id="helpModal" class="modal">
@@ -30,10 +33,6 @@
 
         <style>
             .help-btn {
-                /* position: fixed;
-                bottom: 20px;
-                right: 20px;
-                z-index: 100; */
                 background-color: #4CAF50;
                 color: white;
                 border: none;

@@ -389,4 +389,31 @@ window.addEventListener('load', () => {
     hasDrawnCards = false;
     updateButtonStates();
     loadHistory();
-}); 
+});
+
+// 在 DOM 元素宣告部分添加
+const resetBtn = document.getElementById('resetBtn');
+
+// 添加重置函數
+function resetAll() {
+    // 重置所有輸入和選擇
+    questionInput.value = '';
+    questionType.value = '';
+    spreadType.value = '';
+    personalInterpretation.value = '';
+    
+    // 清空牌陣顯示和解讀結果
+    spreadDisplay.innerHTML = '';
+    readingResult.innerHTML = '';
+    
+    // 重置抽牌狀態
+    hasDrawnCards = false;
+    resetDrawnCards();
+    
+    // 更新按鈕狀態
+    updateDrawButtonState();
+    updateButtonStates();
+}
+
+// 添加重置按鈕的事件監聽器
+resetBtn.addEventListener('click', resetAll); 
